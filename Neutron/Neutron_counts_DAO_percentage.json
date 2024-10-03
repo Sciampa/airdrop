@@ -1,0 +1,4482 @@
+[
+    {
+        "delegator_address": "neutron16n75vfq908r43as7yy00rluz0wwvmkznptml7w",
+        "shares": "6261185000000.000000000000000000",
+        "share_percentage": 64.88460492538134
+    },
+    {
+        "delegator_address": "neutron1g9tqy0adr9kcxvchewpx6nf8g7jnnymqn7tufx",
+        "shares": "500000000000.000000000000000000",
+        "share_percentage": 5.181495589523496
+    },
+    {
+        "delegator_address": "neutron1hfcv47rmdtr4ha32j90nd69lxrjk9sws708re8",
+        "shares": "459143000000.000000000000000000",
+        "share_percentage": 4.758094858921172
+    },
+    {
+        "delegator_address": "neutron15ej8rzf47xngva4jple6unpmv644mur0tp4auu",
+        "shares": "244155204850.000000000000000000",
+        "share_percentage": 2.5301782341789614
+    },
+    {
+        "delegator_address": "neutron103qt83ztx8qkuyu5gjwwd30fr4v77uxzu6txnk",
+        "shares": "236253730069.000000000000000000",
+        "share_percentage": 2.448295320721996
+    },
+    {
+        "delegator_address": "neutron1wlh0f94r6c4y5nwsqlxd2384jmxlljsteysk4x",
+        "shares": "225000000000.000000000000000000",
+        "share_percentage": 2.331673015285573
+    },
+    {
+        "delegator_address": "neutron17pz7rlzlgsne9luslvxpchn5m3p5fgrqakpdap",
+        "shares": "69100000000.000000000000000000",
+        "share_percentage": 0.7160826904721471
+    },
+    {
+        "delegator_address": "neutron1tf06ek932vr8snlxjt2zq260ptrcd7pctyy3j0",
+        "shares": "60000000000.000000000000000000",
+        "share_percentage": 0.6217794707428195
+    },
+    {
+        "delegator_address": "neutron127ax4kl8kfrjtl20gyvlumqqsxfp66hjrkf50t",
+        "shares": "49000000000.000000000000000000",
+        "share_percentage": 0.5077865677733026
+    },
+    {
+        "delegator_address": "neutron1hm88qwwugxm2hz5v7vc095s342rz5n28n9pu73",
+        "shares": "48361000000.000000000000000000",
+        "share_percentage": 0.5011646164098915
+    },
+    {
+        "delegator_address": "neutron14w7fepadel55fk6t5vaemrjpk9dyyrxdkx36cn",
+        "shares": "30850000000.000000000000000000",
+        "share_percentage": 0.31969827787359967
+    },
+    {
+        "delegator_address": "neutron1tz650vr0a0pqn7zatss0xe3rcugjkjwfclm7ju",
+        "shares": "29250318328.000000000000000000",
+        "share_percentage": 0.3031207908173805
+    },
+    {
+        "delegator_address": "neutron1e97rxpwzfz3mf9aq2uyqu59h4qxmv7685e5zv4",
+        "shares": "25000000000.000000000000000000",
+        "share_percentage": 0.2590747794761748
+    },
+    {
+        "delegator_address": "neutron1xhewcgc9jprgmv4j8aqfp8d52dqd3n45zx9a4k",
+        "shares": "25000000000.000000000000000000",
+        "share_percentage": 0.2590747794761748
+    },
+    {
+        "delegator_address": "neutron1838q8cd9kv6p43kel9ctvk6s22s8rdu5wqxfwv",
+        "shares": "24170000000.000000000000000000",
+        "share_percentage": 0.25047349679756575
+    },
+    {
+        "delegator_address": "neutron19qc25l2nwztml9nvhqpg7y55420uvg59qr2hst",
+        "shares": "21300000000.000000000000000000",
+        "share_percentage": 0.2207317121137009
+    },
+    {
+        "delegator_address": "neutron1whejvdne3cj6p5pnap8cnvgnlxdyd4dx2rtlj4",
+        "shares": "20000000000.000000000000000000",
+        "share_percentage": 0.2072598235809398
+    },
+    {
+        "delegator_address": "neutron1m9703sdadvgn22vq5gs6yt8zwk3dzj995246mv",
+        "shares": "19601000000.000000000000000000",
+        "share_percentage": 0.20312499010050009
+    },
+    {
+        "delegator_address": "neutron1fn9z54wy6slvm78hhsnhhuc0l2ewlrxs575kuw",
+        "shares": "19020000000.000000000000000000",
+        "share_percentage": 0.19710409222547376
+    },
+    {
+        "delegator_address": "neutron1fhr5s6awg0dud2g9pcm36xqgpxzr3lj05m6mtl",
+        "shares": "15250000000.000000000000000000",
+        "share_percentage": 0.15803561548046663
+    },
+    {
+        "delegator_address": "neutron1qmc83pa8unxfaudkvv9u223qhdmnama3ym5w8z",
+        "shares": "14655000000.000000000000000000",
+        "share_percentage": 0.15186963572893364
+    },
+    {
+        "delegator_address": "neutron16s6wuyu5nf9zprtjt5kepsp67maez857ty6ftv",
+        "shares": "14404795654.000000000000000000",
+        "share_percentage": 0.14927677029837644
+    },
+    {
+        "delegator_address": "neutron1524vqafry4kjqaxt4hfhsm2mru4ptnt52jeuzd",
+        "shares": "12100000000.000000000000000000",
+        "share_percentage": 0.1253921932664686
+    },
+    {
+        "delegator_address": "neutron1pv9d077jrxhfp28wyc8frrj6akm2a3qmz0h46c",
+        "shares": "12050000000.000000000000000000",
+        "share_percentage": 0.12487404370751624
+    },
+    {
+        "delegator_address": "neutron1zss3hlu6j6ndc9u9rap6pzr5x4wtzxzsxdslq7",
+        "shares": "12004192224.000000000000000000",
+        "share_percentage": 0.12439933812889649
+    },
+    {
+        "delegator_address": "neutron160c4hf65fcxewuf7efhum8p78e2y9wz3r4m0g2",
+        "shares": "12000000000.000000000000000000",
+        "share_percentage": 0.12435589414856389
+    },
+    {
+        "delegator_address": "neutron17mrgrpdyt2e5a35zr3ej0474s2j8824cue5eut",
+        "shares": "11965000000.000000000000000000",
+        "share_percentage": 0.12399318945729725
+    },
+    {
+        "delegator_address": "neutron100hfctvhmreclqxa4ake8r85r2q7qt62yy4taq",
+        "shares": "11550000000.000000000000000000",
+        "share_percentage": 0.11969254811799275
+    },
+    {
+        "delegator_address": "neutron1y00g6xnjnwh94up02htsdr4urwjcp3086jyalr",
+        "shares": "11530000000.000000000000000000",
+        "share_percentage": 0.11948528829441181
+    },
+    {
+        "delegator_address": "neutron1hjh5a8hevexcc8tgddf75dm97qeezn404r76v3",
+        "shares": "11045469745.000000000000000000",
+        "share_percentage": 0.11446410553586542
+    },
+    {
+        "delegator_address": "neutron15nzlmsnksjva3avlusjsx5zzan8fqjpjqx9tk2",
+        "shares": "11000000000.000000000000000000",
+        "share_percentage": 0.1139929029695169
+    },
+    {
+        "delegator_address": "neutron1d9j83ll3e0jh5w8kycjcmzcm2wdy0mr3vm4zyc",
+        "shares": "11000000000.000000000000000000",
+        "share_percentage": 0.1139929029695169
+    },
+    {
+        "delegator_address": "neutron1z54nnm0rmwje3e003g0m6vm9crjvfnsedk8dlr",
+        "shares": "10990082012.000000000000000000",
+        "share_percentage": 0.11389012294735902
+    },
+    {
+        "delegator_address": "neutron1pd2wkd45zt67v3esjlphk48pdlqqxqtc47wasn",
+        "shares": "10779200928.000000000000000000",
+        "share_percentage": 0.11170476413403915
+    },
+    {
+        "delegator_address": "neutron1rmk0ztuhd7txscp7jr2srfjn5vvsdw25fkcrk0",
+        "shares": "10698000000.000000000000000000",
+        "share_percentage": 0.11086327963344472
+    },
+    {
+        "delegator_address": "neutron1m876d5g3yvxg68ezne9lt0g5atkq4m6ahr98d5",
+        "shares": "10566000000.000000000000000000",
+        "share_percentage": 0.10949536479781051
+    },
+    {
+        "delegator_address": "neutron1j7u72t4jfwxt5z04uwvf3s68zmaaxqxcz7tccu",
+        "shares": "10552000000.000000000000000000",
+        "share_percentage": 0.10935028292130386
+    },
+    {
+        "delegator_address": "neutron175484pcggydcgy3nnrq8vc5xwlwddqh4ngml0x",
+        "shares": "10304000000.000000000000000000",
+        "share_percentage": 0.1067802611089002
+    },
+    {
+        "delegator_address": "neutron1cgxsf2kt729a42eegqqw6q2el7g764hl0snjdm",
+        "shares": "10100000000.000000000000000000",
+        "share_percentage": 0.10466621090837462
+    },
+    {
+        "delegator_address": "neutron13cdlev3gxtwwzdzuyltq86004rh0hvqxxhf0he",
+        "shares": "10005181443.000000000000000000",
+        "share_percentage": 0.10368360703857366
+    },
+    {
+        "delegator_address": "neutron1xkq7uvasjsncg4fk78wgwue4rerrleaj7p80cy",
+        "shares": "10005000000.000000000000000000",
+        "share_percentage": 0.10368172674636515
+    },
+    {
+        "delegator_address": "neutron13edattd3yu60dgg7ttr05ttjyt9f0v7yxc90uh",
+        "shares": "10000000000.000000000000000000",
+        "share_percentage": 0.1036299117904699
+    },
+    {
+        "delegator_address": "neutron1auczavgptqrs8dfnaqvtgfsmyktyve3kkfug72",
+        "shares": "10000000000.000000000000000000",
+        "share_percentage": 0.1036299117904699
+    },
+    {
+        "delegator_address": "neutron1edlew8t0t9fm6tnv3c6rmga7lvf85cxdmv7cty",
+        "shares": "10000000000.000000000000000000",
+        "share_percentage": 0.1036299117904699
+    },
+    {
+        "delegator_address": "neutron1gfwqwjsw8ny8298d6lvx0g6um4x6q8qnqucrmc",
+        "shares": "10000000000.000000000000000000",
+        "share_percentage": 0.1036299117904699
+    },
+    {
+        "delegator_address": "neutron1ja9ec3shcjh3fflajcg4yuluehr2gp4zdev58r",
+        "shares": "10000000000.000000000000000000",
+        "share_percentage": 0.1036299117904699
+    },
+    {
+        "delegator_address": "neutron1tft5amegrz75c2v7ernrxvleparuk3x6q0gquk",
+        "shares": "10000000000.000000000000000000",
+        "share_percentage": 0.1036299117904699
+    },
+    {
+        "delegator_address": "neutron1u5gaduhhs0ht3aqj4u74wfpxrqn0nwuq362f46",
+        "shares": "10000000000.000000000000000000",
+        "share_percentage": 0.1036299117904699
+    },
+    {
+        "delegator_address": "neutron1wxftsh6af8hs97ep6wmm8cvfvk2hvwhmj8v6m5",
+        "shares": "10000000000.000000000000000000",
+        "share_percentage": 0.1036299117904699
+    },
+    {
+        "delegator_address": "neutron17wjj4e4xjlk6qtdk3uw432vs3pmvkv0da9tuna",
+        "shares": "9304000000.000000000000000000",
+        "share_percentage": 0.09641726992985321
+    },
+    {
+        "delegator_address": "neutron1e86u57464w3mxedrzm3chatvcd2z89axsgedm9",
+        "shares": "9214000000.000000000000000000",
+        "share_percentage": 0.09548460072373897
+    },
+    {
+        "delegator_address": "neutron1whacrzval5yslys8jph2m22rd4gzxvaj26cs3e",
+        "shares": "9208000000.000000000000000000",
+        "share_percentage": 0.0954224227766647
+    },
+    {
+        "delegator_address": "neutron1gt4vzztv0nser0pdxer2ucny7vwewxrlefemjz",
+        "shares": "9159110000.000000000000000000",
+        "share_percentage": 0.0949157761379211
+    },
+    {
+        "delegator_address": "neutron1mj4c3whfpphcsw0m2vu6g9r0d6pgv8cfzvet7e",
+        "shares": "9100000000.000000000000000000",
+        "share_percentage": 0.09430321972932762
+    },
+    {
+        "delegator_address": "neutron1g2u5vxxnx0m3ndcvpwjfpeef6hzjr6ah5u0cyg",
+        "shares": "8500000000.000000000000000000",
+        "share_percentage": 0.08808542502189944
+    },
+    {
+        "delegator_address": "neutron1c8ppqgs26gy2x4qczjahxqket6yds2gw6k36l8",
+        "shares": "8170000000.000000000000000000",
+        "share_percentage": 0.08466563793281393
+    },
+    {
+        "delegator_address": "neutron1wasczfhl5y36tnq498276rhkwkj80xn808ku40",
+        "shares": "8160000000.000000000000000000",
+        "share_percentage": 0.08456200802102344
+    },
+    {
+        "delegator_address": "neutron1sf2y3g6wanhrt7ellyk7fudah6fvslhsxvwthw",
+        "shares": "8000000000.000000000000000000",
+        "share_percentage": 0.08290392943237593
+    },
+    {
+        "delegator_address": "neutron1f4w0hhfm6c6e9q80f3u8zf4fht2vm54veyt80n",
+        "shares": "7520000000.000000000000000000",
+        "share_percentage": 0.07792969366643338
+    },
+    {
+        "delegator_address": "neutron1mt32330t2j9vvcucahm6753csl33x070c88wxh",
+        "shares": "7500589623.000000000000000000",
+        "share_percentage": 0.07772854410080039
+    },
+    {
+        "delegator_address": "neutron1qjsc90ssnheclm5j7j3hxl5jdr74gu923vqrgm",
+        "shares": "7500000000.000000000000000000",
+        "share_percentage": 0.07772243384285243
+    },
+    {
+        "delegator_address": "neutron1rz46p8x0u55kgrdcaehx0rhnnyac53zewvmfm4",
+        "shares": "7234000000.000000000000000000",
+        "share_percentage": 0.07496587818922593
+    },
+    {
+        "delegator_address": "neutron1ytrde69p4kha85vavdz0gwkdf6el3gaq47h0u5",
+        "shares": "7080748227.000000000000000000",
+        "share_percentage": 0.07337773141745363
+    },
+    {
+        "delegator_address": "neutron1m6nj3u4h36steyumz9p9fq3mmz676xmvdtpedr",
+        "shares": "7000000000.000000000000000000",
+        "share_percentage": 0.07254093825332894
+    },
+    {
+        "delegator_address": "neutron1sl5vs6gtyuyldn8z0w4luw3vgzq5dn8tj89spq",
+        "shares": "7000000000.000000000000000000",
+        "share_percentage": 0.07254093825332894
+    },
+    {
+        "delegator_address": "neutron150q6ppu366x468pkhm7zcw7jk5jegg0syzjgl4",
+        "shares": "6940000000.000000000000000000",
+        "share_percentage": 0.07191915878258612
+    },
+    {
+        "delegator_address": "neutron167vm66zdstqy6uc8lx9kmn0k8z0q6rhgujjr95",
+        "shares": "6518000000.000000000000000000",
+        "share_percentage": 0.06754597650502829
+    },
+    {
+        "delegator_address": "neutron1ky7m39mszht0rveq9y0ramqnash6jp5kzvhlf5",
+        "shares": "6463000000.000000000000000000",
+        "share_percentage": 0.0669760119901807
+    },
+    {
+        "delegator_address": "neutron1nw33tg8j5hhxdszhucw9s0fpm4wyrmddxs783q",
+        "shares": "6204000000.000000000000000000",
+        "share_percentage": 0.06429199727480754
+    },
+    {
+        "delegator_address": "neutron1k9ur3v6dryftc8mctrddtxud6easfrdqaa83d2",
+        "shares": "6130000000.000000000000000000",
+        "share_percentage": 0.06352513592755807
+    },
+    {
+        "delegator_address": "neutron1dchyf63dgmwcgp36kz3682y0cy4h5ze6zwpc3w",
+        "shares": "6080000000.000000000000000000",
+        "share_percentage": 0.0630069863686057
+    },
+    {
+        "delegator_address": "neutron1h03pu8xlrtx40sqnmdnrvxn0m4cjwpy4480yg8",
+        "shares": "6000000000.000000000000000000",
+        "share_percentage": 0.062177947074281946
+    },
+    {
+        "delegator_address": "neutron1xna687lvah82kvvlat8vwjkutujgfm0tunk3r9",
+        "shares": "5963500000.000000000000000000",
+        "share_percentage": 0.06179969789624673
+    },
+    {
+        "delegator_address": "neutron1tzs9kr6uq4jxswfrlq4zddyp6k2q8ztawytx5e",
+        "shares": "5900000000.000000000000000000",
+        "share_percentage": 0.061141647956377256
+    },
+    {
+        "delegator_address": "neutron1wnzsc3f8ugd7cn0n3yctn2337dyz7hht04klp3",
+        "shares": "5830000000.000000000000000000",
+        "share_percentage": 0.060416238573843956
+    },
+    {
+        "delegator_address": "neutron1yvsp4fvj6wwh9wwdqrj4l86nf2sz4czgfeusnn",
+        "shares": "5500000000.000000000000000000",
+        "share_percentage": 0.05699645148475845
+    },
+    {
+        "delegator_address": "neutron1tngrk6fdalfzff4k90uzyy88zfprg9vnlh65dg",
+        "shares": "5460000000.000000000000000000",
+        "share_percentage": 0.05658193183759658
+    },
+    {
+        "delegator_address": "neutron1zch695nea92jqn94sdd0nqjhnvpgfffw4h2nth",
+        "shares": "5290000000.000000000000000000",
+        "share_percentage": 0.05482022333715859
+    },
+    {
+        "delegator_address": "neutron19hpk4tck47shgvhn37ut20u53qk25gkh7v3j75",
+        "shares": "5285000000.000000000000000000",
+        "share_percentage": 0.054768408381263345
+    },
+    {
+        "delegator_address": "neutron188gyuvtqwtn2lcfdkdad0zlkm4eevx3dvvhcd5",
+        "shares": "5210536426.000000000000000000",
+        "share_percentage": 0.05399674302074104
+    },
+    {
+        "delegator_address": "neutron1qhc5d04lfqphtuh6dtme6dwwr4fvkrvnt2ft5j",
+        "shares": "5154000000.000000000000000000",
+        "share_percentage": 0.053410856536808195
+    },
+    {
+        "delegator_address": "neutron1xt05smu3wv35n4qydt5xrdwcqnucqvlwlad7a5",
+        "shares": "5124000000.000000000000000000",
+        "share_percentage": 0.05309996680143679
+    },
+    {
+        "delegator_address": "neutron1tht0mf64wy6lq5axggh6j73uzga4mw5d9rqh6s",
+        "shares": "5110000000.000000000000000000",
+        "share_percentage": 0.05295488492493012
+    },
+    {
+        "delegator_address": "neutron1l9cqrlfnnvancudsp2wutm9jvwf749vv4hygqg",
+        "shares": "5008061474.000000000000000000",
+        "share_percentage": 0.05189849687918707
+    },
+    {
+        "delegator_address": "neutron18a3579c6dcjlsf4dcj3qp7dna3xga2gj2j0cm9",
+        "shares": "5000000000.000000000000000000",
+        "share_percentage": 0.05181495589523495
+    },
+    {
+        "delegator_address": "neutron1c2pt8jxjmrq7kfvdsdfe8v2zurxxwl72aqk2za",
+        "shares": "5000000000.000000000000000000",
+        "share_percentage": 0.05181495589523495
+    },
+    {
+        "delegator_address": "neutron1t4xjunvyee06vclfxcw6t3crkstrdxy5sk70ng",
+        "shares": "5000000000.000000000000000000",
+        "share_percentage": 0.05181495589523495
+    },
+    {
+        "delegator_address": "neutron1ygsgtmn057xn7xl30hz0a3y5p7p7ltyh2veua4",
+        "shares": "5000000000.000000000000000000",
+        "share_percentage": 0.05181495589523495
+    },
+    {
+        "delegator_address": "neutron1gw9hu5zpe6yve6anzfd7pwe38kq7pg7vmjw9kx",
+        "shares": "4900000000.000000000000000000",
+        "share_percentage": 0.050778656777330254
+    },
+    {
+        "delegator_address": "neutron1lt3zkefmj9y3w06ca30fpnnx94gxk4p37ne9aw",
+        "shares": "4896000000.000000000000000000",
+        "share_percentage": 0.050737204812614074
+    },
+    {
+        "delegator_address": "neutron1gn7zgx66e7k2fjex45kdwnpn73jl3nyht3rt25",
+        "shares": "4850000000.000000000000000000",
+        "share_percentage": 0.05026050721837791
+    },
+    {
+        "delegator_address": "neutron1d34yx089ct44r2n5ug23sv8fzxnc58h58wy843",
+        "shares": "4684000000.000000000000000000",
+        "share_percentage": 0.04854025068265611
+    },
+    {
+        "delegator_address": "neutron1y9yqmxmh2z5p79cxtavkq3g7g7hupwphn3x8sd",
+        "shares": "4660000000.000000000000000000",
+        "share_percentage": 0.04829153889435898
+    },
+    {
+        "delegator_address": "neutron1q9nv3agrr6n5r05n4djpk5ujdgryn2dn7l3jc4",
+        "shares": "4500000000.000000000000000000",
+        "share_percentage": 0.04663346030571146
+    },
+    {
+        "delegator_address": "neutron16azale8wp99pyt89k4ntcxzywxavr5zazz5gcj",
+        "shares": "4490000000.000000000000000000",
+        "share_percentage": 0.04652983039392099
+    },
+    {
+        "delegator_address": "neutron1nv5el5ptha8j49akcv05ymsppcpp6p8trq94ws",
+        "shares": "4389245114.000000000000000000",
+        "share_percentage": 0.045485708399057106
+    },
+    {
+        "delegator_address": "neutron1ft6gdwcedwdqe5gsp4uhcdvze6ualqg3vz5y9y",
+        "shares": "4332000000.000000000000000000",
+        "share_percentage": 0.044892477787631564
+    },
+    {
+        "delegator_address": "neutron1nckqhfp8k67qzvats2slqvtaf3kynz66xxn7mj",
+        "shares": "4004000000.000000000000000000",
+        "share_percentage": 0.04149341668090415
+    },
+    {
+        "delegator_address": "neutron1a5kaehuk3zhkjrtx2uq30dgxj35a3evvvkx6wq",
+        "shares": "4000000000.000000000000000000",
+        "share_percentage": 0.041451964716187964
+    },
+    {
+        "delegator_address": "neutron1cjsrnq6sz9es5074kpmfdcq8gpvdjttgwjv0yr",
+        "shares": "3900000000.000000000000000000",
+        "share_percentage": 0.04041566559828327
+    },
+    {
+        "delegator_address": "neutron17vv33gl7esrnulrhz943rrchs623g0aau4juwa",
+        "shares": "3830000000.000000000000000000",
+        "share_percentage": 0.03969025621574998
+    },
+    {
+        "delegator_address": "neutron12t3szfpfpp3rw3nr7fqmq4wkl5wp5msx9hedkw",
+        "shares": "3819000000.000000000000000000",
+        "share_percentage": 0.03957626331278046
+    },
+    {
+        "delegator_address": "neutron1zgals4zkgun8fd68yhtncl0nxn9x3ss0yz3dxs",
+        "shares": "3755000000.000000000000000000",
+        "share_percentage": 0.03891303187732145
+    },
+    {
+        "delegator_address": "neutron15qypa0nx5yn2jdvms26fcejra6axjdea2s6fyc",
+        "shares": "3699745154.000000000000000000",
+        "share_percentage": 0.03834042639562386
+    },
+    {
+        "delegator_address": "neutron1srhzr4s6k3fqx2mzrfpwjz6ffy7t6j6x4p8t92",
+        "shares": "3680000000.000000000000000000",
+        "share_percentage": 0.03813580753889293
+    },
+    {
+        "delegator_address": "neutron107m09gnrav7sfk8awf0fdnd5dn4fdlaucvnv0v",
+        "shares": "3500000000.000000000000000000",
+        "share_percentage": 0.03627046912666447
+    },
+    {
+        "delegator_address": "neutron15q5r3vpjsxfj85w6hg3rndk8szcp7xqfz9l5gv",
+        "shares": "3500000000.000000000000000000",
+        "share_percentage": 0.03627046912666447
+    },
+    {
+        "delegator_address": "neutron1f4gqwe563lqhk3da4n0mnqjd4g84zzlaaj928h",
+        "shares": "3500000000.000000000000000000",
+        "share_percentage": 0.03627046912666447
+    },
+    {
+        "delegator_address": "neutron1ygneerjcktqwurvhclk4y87cd35y9l82ph0d0r",
+        "shares": "3500000000.000000000000000000",
+        "share_percentage": 0.03627046912666447
+    },
+    {
+        "delegator_address": "neutron1f4lra52avyw35wqetv6pemcn70eqh5pmrl5tcz",
+        "shares": "3345000000.000000000000000000",
+        "share_percentage": 0.034664205493912185
+    },
+    {
+        "delegator_address": "neutron14mn29ty3zdvtvthxjutcr3ktesyz2cjc0x73ju",
+        "shares": "3071995767.000000000000000000",
+        "share_percentage": 0.031835065035490696
+    },
+    {
+        "delegator_address": "neutron1hudqwejz76slct2yq6yyskel0dmjpsemx7ktuj",
+        "shares": "3030651555.000000000000000000",
+        "share_percentage": 0.03140661533123005
+    },
+    {
+        "delegator_address": "neutron18zpjg8wc9mmgkvsl5sg3esk7yrns6gsydfdw0a",
+        "shares": "3009000000.000000000000000000",
+        "share_percentage": 0.031182240457752395
+    },
+    {
+        "delegator_address": "neutron1s7p8qqe7ucs23nmnld3p746hsk25aujte89f73",
+        "shares": "3000500000.000000000000000000",
+        "share_percentage": 0.031094155032730497
+    },
+    {
+        "delegator_address": "neutron1gfje5jjtz37psn067ddyv7nhgkuu7g9lsmdz4n",
+        "shares": "3000000000.000000000000000000",
+        "share_percentage": 0.031088973537140973
+    },
+    {
+        "delegator_address": "neutron1zv8qvgwxs5r4cfqqhtw2wjv53u4vccfe0n3phz",
+        "shares": "3000000000.000000000000000000",
+        "share_percentage": 0.031088973537140973
+    },
+    {
+        "delegator_address": "neutron13v7fgmgwaz9axywtzu7u5fufe7zu6s65g0fvwe",
+        "shares": "2940000000.000000000000000000",
+        "share_percentage": 0.030467194066398157
+    },
+    {
+        "delegator_address": "neutron1yv8x6z8h7n0asawdpks9meccel4uz0hrnryzne",
+        "shares": "2921500000.000000000000000000",
+        "share_percentage": 0.030275478729585786
+    },
+    {
+        "delegator_address": "neutron1fysj4cadldlzcpjkfm2apdxex48wlvrgcyk93v",
+        "shares": "2915000000.000000000000000000",
+        "share_percentage": 0.030208119286921978
+    },
+    {
+        "delegator_address": "neutron14ax6nx67mql8wjftwrfh8hfnk2hgawptv6mn6g",
+        "shares": "2900000000.000000000000000000",
+        "share_percentage": 0.030052674419236276
+    },
+    {
+        "delegator_address": "neutron1m7ws6te2ds2ly62pl20jzdqglhse5f5zjtxrt6",
+        "shares": "2897000000.000000000000000000",
+        "share_percentage": 0.030021585445699134
+    },
+    {
+        "delegator_address": "neutron1d0hk2gflp7hsejy4t2a750g34w2m9nelya4wkj",
+        "shares": "2865500000.000000000000000000",
+        "share_percentage": 0.029695151223559157
+    },
+    {
+        "delegator_address": "neutron1fy00ymcg0hl2d09422usyn40rmeyk09retxsha",
+        "shares": "2851571731.000000000000000000",
+        "share_percentage": 0.02955081269477276
+    },
+    {
+        "delegator_address": "neutron1mp0a6tn3fsk7afk4qg7hjc57f86qh8pxj203ll",
+        "shares": "2810000000.000000000000000000",
+        "share_percentage": 0.029120005213122042
+    },
+    {
+        "delegator_address": "neutron1d4p0g7a9l53yrppp8vme460kcm32x628fe7d99",
+        "shares": "2789000000.000000000000000000",
+        "share_percentage": 0.02890238239836206
+    },
+    {
+        "delegator_address": "neutron1frpyq27rs5a0achn7rasff0dlntzw5las0lxya",
+        "shares": "2757500000.000000000000000000",
+        "share_percentage": 0.02857594817622208
+    },
+    {
+        "delegator_address": "neutron1y0dy3kpzn5dvnff9fzljwfpklpucay4cfqvn29",
+        "shares": "2689371756.000000000000000000",
+        "share_percentage": 0.027869935784606118
+    },
+    {
+        "delegator_address": "neutron17zhpr9nmerm30a84lqw0k0mrl74hkz6lq2xl99",
+        "shares": "2679494143.000000000000000000",
+        "share_percentage": 0.027767574168217075
+    },
+    {
+        "delegator_address": "neutron10z0j4nw5tl0ruxcvfq6m6thpvwjz5a9eda2a7l",
+        "shares": "2675000000.000000000000000000",
+        "share_percentage": 0.027721001403950705
+    },
+    {
+        "delegator_address": "neutron1004mqvtqkckwzq0dkappks9ngf6ecc7zzjt2fq",
+        "shares": "2616330471.000000000000000000",
+        "share_percentage": 0.027113009592444864
+    },
+    {
+        "delegator_address": "neutron1y4nvllu3sucusqepys6elsl63xkhsw4l5m6xpm",
+        "shares": "2615000000.000000000000000000",
+        "share_percentage": 0.027099221933207882
+    },
+    {
+        "delegator_address": "neutron1fcfus4u2zt8nr4srvm0g9xzh39r6m6qveqtj43",
+        "shares": "2600000000.000000000000000000",
+        "share_percentage": 0.02694377706552218
+    },
+    {
+        "delegator_address": "neutron1aqj5qejddfl4peh9zq3xsny8uk97g03ufwfd58",
+        "shares": "2570000000.000000000000000000",
+        "share_percentage": 0.02663288733015077
+    },
+    {
+        "delegator_address": "neutron1d25uxlhdynu6hdkl4xelwxn7jz08u5fasgkmxv",
+        "shares": "2554059230.000000000000000000",
+        "share_percentage": 0.02646769327125355
+    },
+    {
+        "delegator_address": "neutron1fm3utlrj0yjftdt808uz4j4sjt09k0yxx54p3g",
+        "shares": "2545000000.000000000000000000",
+        "share_percentage": 0.02637381255067459
+    },
+    {
+        "delegator_address": "neutron10ycq2rvf56zl49z2mnyg4ttqjmfmjz99c9v3zr",
+        "shares": "2500000000.000000000000000000",
+        "share_percentage": 0.025907477947617476
+    },
+    {
+        "delegator_address": "neutron145h7l64dxhhq46p2r24mpjcp5tgg7994rek0z8",
+        "shares": "2500000000.000000000000000000",
+        "share_percentage": 0.025907477947617476
+    },
+    {
+        "delegator_address": "neutron1lp43mmjg97gcg7n5a2tynd0q4hq5f5v9g7048c",
+        "shares": "2500000000.000000000000000000",
+        "share_percentage": 0.025907477947617476
+    },
+    {
+        "delegator_address": "neutron1xz436dmuxuzpdt4a08s0a7z4tmc7806csxfndp",
+        "shares": "2494000000.000000000000000000",
+        "share_percentage": 0.0258453000005432
+    },
+    {
+        "delegator_address": "neutron1d8mq46wt2yxsgwrmh6hhfgycl0537w8g0ywy6f",
+        "shares": "2479770342.000000000000000000",
+        "share_percentage": 0.025697838180208342
+    },
+    {
+        "delegator_address": "neutron1567d9tmegyn6vphk2lejfk0a7hkum7r6y3xngk",
+        "shares": "2454249429.000000000000000000",
+        "share_percentage": 0.025433365183908117
+    },
+    {
+        "delegator_address": "neutron1pyc4kpalk2dk7cqu63yecnuyg5cpcdzhycucr8",
+        "shares": "2395000000.000000000000000000",
+        "share_percentage": 0.024819363873817543
+    },
+    {
+        "delegator_address": "neutron1750cfwwf3ms0heyaat4q2wvr6ltynlhva78cwv",
+        "shares": "2366378600.000000000000000000",
+        "share_percentage": 0.02452276055808557
+    },
+    {
+        "delegator_address": "neutron1q0fh6l29w7e6vj6x0n0hd5trp02nc8u9gaycal",
+        "shares": "2315000000.000000000000000000",
+        "share_percentage": 0.023990324579493783
+    },
+    {
+        "delegator_address": "neutron19maf9rz0xe39yhc4sjpplz6ruk7k7y7dg42hh9",
+        "shares": "2254466555.000000000000000000",
+        "share_percentage": 0.02336301702292146
+    },
+    {
+        "delegator_address": "neutron1alz9c2h0sjcc6hx9a4gargfpzx2u478jn32twd",
+        "shares": "2250000000.000000000000000000",
+        "share_percentage": 0.02331673015285573
+    },
+    {
+        "delegator_address": "neutron1fujw9udraastqazedvz72xzlr2gvv4q33e6ycc",
+        "shares": "2238000000.000000000000000000",
+        "share_percentage": 0.02319237425870717
+    },
+    {
+        "delegator_address": "neutron1vepptjfksqhsa0hl7x086slzjuzdv78v3xuekp",
+        "shares": "2235000000.000000000000000000",
+        "share_percentage": 0.023161285285170023
+    },
+    {
+        "delegator_address": "neutron1lcsjy2d5s33h0sddd8lpuqvwyz5ruz7j5kmhts",
+        "shares": "2205046086.000000000000000000",
+        "share_percentage": 0.022850873138610096
+    },
+    {
+        "delegator_address": "neutron1jdven2lq8nk6n5qzy2xnrylnf4kzwyrmt06ktn",
+        "shares": "2168000000.000000000000000000",
+        "share_percentage": 0.022466964876173875
+    },
+    {
+        "delegator_address": "neutron1v69lzl909kje64k8vae24uytpxcnpxgu75lamj",
+        "shares": "2154000000.000000000000000000",
+        "share_percentage": 0.02232188299966722
+    },
+    {
+        "delegator_address": "neutron15px8fcsfjfnfud7tynfe4cmdz7av4m68m6430w",
+        "shares": "2140000000.000000000000000000",
+        "share_percentage": 0.02217680112316056
+    },
+    {
+        "delegator_address": "neutron1csu7qp245m9r6k8xq7pat2ucpsyn52gnlzpadn",
+        "shares": "2130000000.000000000000000000",
+        "share_percentage": 0.02207317121137009
+    },
+    {
+        "delegator_address": "neutron1tghgz0mvgpsxtyr8t8u8unlqd95fqxfw833aex",
+        "shares": "2095000000.000000000000000000",
+        "share_percentage": 0.021710466520103448
+    },
+    {
+        "delegator_address": "neutron1u94khj7s24359ftyzcy3traxjfym9c42ju6cwy",
+        "shares": "2057900000.000000000000000000",
+        "share_percentage": 0.021325999547360804
+    },
+    {
+        "delegator_address": "neutron12w9kf8xqe52uvgavtgvjgegasvmlquee78ls3q",
+        "shares": "2030000000.000000000000000000",
+        "share_percentage": 0.021036872093465393
+    },
+    {
+        "delegator_address": "neutron177h3vf9cfvz2rv7qa6794y3d9el9fu39l5we5z",
+        "shares": "2001461527.000000000000000000",
+        "share_percentage": 0.02074112814950292
+    },
+    {
+        "delegator_address": "neutron1wjgzwwrdelmz6t6dglhx84e96vkwptt2qrry27",
+        "shares": "2001000000.000000000000000000",
+        "share_percentage": 0.02073634534927303
+    },
+    {
+        "delegator_address": "neutron1wjvr8gy4rfaatx4vuht2qcumxhqphlmlav5thr",
+        "shares": "2001000000.000000000000000000",
+        "share_percentage": 0.02073634534927303
+    },
+    {
+        "delegator_address": "neutron168k5wr3xccdch9uwgz2me45g3u6fgxshqnrz8f",
+        "shares": "2000000000.000000000000000000",
+        "share_percentage": 0.020725982358093982
+    },
+    {
+        "delegator_address": "neutron1wz69rcq9qdnksdryma0caxsktt272hlgy8kmfy",
+        "shares": "2000000000.000000000000000000",
+        "share_percentage": 0.020725982358093982
+    },
+    {
+        "delegator_address": "neutron1y9s4yqdhcszdwuecng424w3kkmsphswh59vfue",
+        "shares": "2000000000.000000000000000000",
+        "share_percentage": 0.020725982358093982
+    },
+    {
+        "delegator_address": "neutron1rxvnh0zfzp6tpandg75z4mcze7rkme0ydyglrx",
+        "shares": "1984751992.000000000000000000",
+        "share_percentage": 0.020567967385691943
+    },
+    {
+        "delegator_address": "neutron1t5r7z6ngykst3hutqjjzmnulvk34t87asr22qh",
+        "shares": "1984000000.000000000000000000",
+        "share_percentage": 0.02056017449922923
+    },
+    {
+        "delegator_address": "neutron19xkqaw6lwk5uuq8wte829wa7mmnrhdaeue2n7x",
+        "shares": "1980000000.000000000000000000",
+        "share_percentage": 0.02051872253451304
+    },
+    {
+        "delegator_address": "neutron1cc709m88mvea272kw68kkpjtlh49qmcrfl5c30",
+        "shares": "1900000000.000000000000000000",
+        "share_percentage": 0.019689683240189285
+    },
+    {
+        "delegator_address": "neutron19rn52vj06h7mykzj9nue30ye3hcqe24pv7q4lf",
+        "shares": "1885000000.000000000000000000",
+        "share_percentage": 0.01953423837250358
+    },
+    {
+        "delegator_address": "neutron1am6r5juytwv37803aqe3pgs29g0lzwke5826nj",
+        "shares": "1885000000.000000000000000000",
+        "share_percentage": 0.01953423837250358
+    },
+    {
+        "delegator_address": "neutron13u8d6v6u8xxmghjzyztfv2pnzlhpya9u2wc7ku",
+        "shares": "1866900000.000000000000000000",
+        "share_percentage": 0.019346668232162828
+    },
+    {
+        "delegator_address": "neutron16glttjwq3ntse538welwm5yrlmq0ry6mft63h0",
+        "shares": "1866500000.000000000000000000",
+        "share_percentage": 0.01934252303569121
+    },
+    {
+        "delegator_address": "neutron1a35e8c5znuk99ujx5lka3k5p6pm0pwq8z4mp6w",
+        "shares": "1853000000.000000000000000000",
+        "share_percentage": 0.019202622654774074
+    },
+    {
+        "delegator_address": "neutron14m5knl4ua3l9n02s9judn54m3hv5we5g90krnj",
+        "shares": "1850000000.000000000000000000",
+        "share_percentage": 0.019171533681236936
+    },
+    {
+        "delegator_address": "neutron14edy0mskwzyen3g6p3w8tanzjm8e06kxf7350j",
+        "shares": "1849363130.000000000000000000",
+        "share_percentage": 0.019164933803044733
+    },
+    {
+        "delegator_address": "neutron1yvwz42xuz8x9c0nyl04cu5ndztsl4wf4na68m5",
+        "shares": "1848034194.000000000000000000",
+        "share_percentage": 0.019151162050999215
+    },
+    {
+        "delegator_address": "neutron165luefet5lm9udwxzvfzp9l2ca8jkvdm5t8qfs",
+        "shares": "1810000000.000000000000000000",
+        "share_percentage": 0.018757014034075054
+    },
+    {
+        "delegator_address": "neutron1a8tzx7kl4scp6hkd860fwj4n5p28y2py7sfddh",
+        "shares": "1800003590.000000000000000000",
+        "share_percentage": 0.018653421325422918
+    },
+    {
+        "delegator_address": "neutron1knw3wkm76tnf4lac0xcetx8htwfge89wk33fs3",
+        "shares": "1800000000.000000000000000000",
+        "share_percentage": 0.018653384122284584
+    },
+    {
+        "delegator_address": "neutron19yg70ssswww6wwlyt2z95wq4r7jj65j8efxqju",
+        "shares": "1795000000.000000000000000000",
+        "share_percentage": 0.01860156916638935
+    },
+    {
+        "delegator_address": "neutron1zakwa82cdfe43qlve66pyhfxg6h8ptddydw6ll",
+        "shares": "1794890856.000000000000000000",
+        "share_percentage": 0.018600438108080104
+    },
+    {
+        "delegator_address": "neutron17ht4kjeh8kmcg7ax5uu0u3hmmkm3c8vms6qfs5",
+        "shares": "1787400000.000000000000000000",
+        "share_percentage": 0.018522810433428592
+    },
+    {
+        "delegator_address": "neutron15rqrqjee3e5mm7r60reyjguemcrlue3tpqg8hc",
+        "shares": "1760000000.000000000000000000",
+        "share_percentage": 0.018238864475122706
+    },
+    {
+        "delegator_address": "neutron1laj7svs8e3f9g0ejrq4jw77372f4cem0qpqs3r",
+        "shares": "1760000000.000000000000000000",
+        "share_percentage": 0.018238864475122706
+    },
+    {
+        "delegator_address": "neutron1up2wj7enmkv48q5k6yea0sqsacjpgah90uqvjf",
+        "shares": "1747714219.000000000000000000",
+        "share_percentage": 0.018111547034992
+    },
+    {
+        "delegator_address": "neutron1v8a5tfp7mhpqz2ysa7fl6gaw6dp00aktgwam44",
+        "shares": "1735000000.000000000000000000",
+        "share_percentage": 0.01797978969564653
+    },
+    {
+        "delegator_address": "neutron1p4vq3nvkk79n3gzp0f5wkyjjptwhsfw920ker5",
+        "shares": "1725000000.000000000000000000",
+        "share_percentage": 0.01787615978385606
+    },
+    {
+        "delegator_address": "neutron1cd4m6ql2aqddwkne6myyn7wjxrqx5tuk575nge",
+        "shares": "1703000000.000000000000000000",
+        "share_percentage": 0.017648173977917028
+    },
+    {
+        "delegator_address": "neutron1c8dwq2lws0skkca7kaq4u0vxsvzlhcuvmn57up",
+        "shares": "1700000000.000000000000000000",
+        "share_percentage": 0.017617085004379886
+    },
+    {
+        "delegator_address": "neutron1vn4gvkqmtdchshcefyx0v08n58svxcftaen53y",
+        "shares": "1692100000.000000000000000000",
+        "share_percentage": 0.017535217374065413
+    },
+    {
+        "delegator_address": "neutron1wrdhvg9xx7f3whl95hk3q3379l6yyy0kv7g3d0",
+        "shares": "1672000000.000000000000000000",
+        "share_percentage": 0.01732692125136657
+    },
+    {
+        "delegator_address": "neutron186y4suz4z87v6s6ecd6552alnef4fdmum8fpfg",
+        "shares": "1660000000.000000000000000000",
+        "share_percentage": 0.017202565357218008
+    },
+    {
+        "delegator_address": "neutron1amqufnrxh2pnkg20rrsp3yt3vhs4rcxkl9nf9p",
+        "shares": "1660000000.000000000000000000",
+        "share_percentage": 0.017202565357218008
+    },
+    {
+        "delegator_address": "neutron16mf0f2tzxs67rdyd4uc34sqjzs9gk4wa2ftem8",
+        "shares": "1650000000.000000000000000000",
+        "share_percentage": 0.017098935445427538
+    },
+    {
+        "delegator_address": "neutron1fszjwzpu7xz2yl5sxxrcrelt4m6y27akn4zufc",
+        "shares": "1650000000.000000000000000000",
+        "share_percentage": 0.017098935445427538
+    },
+    {
+        "delegator_address": "neutron1mq4kj00ujhg9zntzj28efv5hsfcncxxzefw9dh",
+        "shares": "1650000000.000000000000000000",
+        "share_percentage": 0.017098935445427538
+    },
+    {
+        "delegator_address": "neutron1ktvnuysk4lz0westx7wg9q6rggz8e59zdydp06",
+        "shares": "1641767228.000000000000000000",
+        "share_percentage": 0.01701361930181243
+    },
+    {
+        "delegator_address": "neutron1zg5h9h06zcrtu5r5hrkkptrqzq2h9sdr5vzwkc",
+        "shares": "1623770000.000000000000000000",
+        "share_percentage": 0.016827114186801134
+    },
+    {
+        "delegator_address": "neutron1cq03lwxw9r7rvwcl9n5wwc7gv43acgwsk5ngpg",
+        "shares": "1610500000.000000000000000000",
+        "share_percentage": 0.01668959729385518
+    },
+    {
+        "delegator_address": "neutron1z3znw7lall94lym3vazl6xxd36a2wtqgqrnecj",
+        "shares": "1610000000.000000000000000000",
+        "share_percentage": 0.016684415798265656
+    },
+    {
+        "delegator_address": "neutron15jvlceq3qlxaahhvcpme0jvz990xepntvenyum",
+        "shares": "1607150000.000000000000000000",
+        "share_percentage": 0.01665488127340537
+    },
+    {
+        "delegator_address": "neutron1ap0yxgaj9zwesla4jemqwkhxs0k5lynsrtkv8k",
+        "shares": "1590000000.000000000000000000",
+        "share_percentage": 0.016477155974684715
+    },
+    {
+        "delegator_address": "neutron1hdq9n0sq6wje79xglgqqyy0s86xxxykusf4wl0",
+        "shares": "1582444975.000000000000000000",
+        "share_percentage": 0.016398863317252238
+    },
+    {
+        "delegator_address": "neutron1eyweht738e4n2xjp2hj8e53w8nz9nx4fw5veqx",
+        "shares": "1575000000.000000000000000000",
+        "share_percentage": 0.016321711106999013
+    },
+    {
+        "delegator_address": "neutron1wl2465a8pzanl5xp2nqq2uklynjnj047gawxv7",
+        "shares": "1550000000.000000000000000000",
+        "share_percentage": 0.016062636327522837
+    },
+    {
+        "delegator_address": "neutron1hkr39czldssrjq7e3vnl24h2mhkhq8u3krd8wd",
+        "shares": "1524455884.000000000000000000",
+        "share_percentage": 0.015797922878738282
+    },
+    {
+        "delegator_address": "neutron1gf5lfrstxcv8764x35360tmf62d0gewz5ruqet",
+        "shares": "1503770961.000000000000000000",
+        "share_percentage": 0.015583565204150017
+    },
+    {
+        "delegator_address": "neutron1crckdhfjpq4rn2prnf484fk7n239qtnmelqge3",
+        "shares": "1500000000.000000000000000000",
+        "share_percentage": 0.015544486768570486
+    },
+    {
+        "delegator_address": "neutron1qgdhdhu47hgx8j7qkdcsneu5e2saypmlz0sexz",
+        "shares": "1500000000.000000000000000000",
+        "share_percentage": 0.015544486768570486
+    },
+    {
+        "delegator_address": "neutron1h3z0yl54y4lyl0ppgtac4vagxvw0w4wfy9hu0j",
+        "shares": "1499000000.000000000000000000",
+        "share_percentage": 0.015534123777391442
+    },
+    {
+        "delegator_address": "neutron19qs798zha4r6xc38dnpctc0hryrj8g8rwt06dt",
+        "shares": "1470000000.000000000000000000",
+        "share_percentage": 0.015233597033199079
+    },
+    {
+        "delegator_address": "neutron1t5ct0z5f7a267pmvmllmknzvw324vpdq6d5gxd",
+        "shares": "1433000000.000000000000000000",
+        "share_percentage": 0.01485016635957434
+    },
+    {
+        "delegator_address": "neutron1wysj6m0fzakw0j3xd88q4mk8xaa3anq39rkq9r",
+        "shares": "1417000000.000000000000000000",
+        "share_percentage": 0.014684358500709586
+    },
+    {
+        "delegator_address": "neutron1vuc08dqnfxussg0tw3ytzl6mqrzldl662q3xm7",
+        "shares": "1413771744.000000000000000000",
+        "share_percentage": 0.01465090411225788
+    },
+    {
+        "delegator_address": "neutron17l9da4982ry64tsz5tqdc7hcgfkyeqqzktytpe",
+        "shares": "1365046560.000000000000000000",
+        "share_percentage": 0.01414596546026844
+    },
+    {
+        "delegator_address": "neutron17h3nkc5py0gl4ldtl3z4m3p3ufyqau8vjeltda",
+        "shares": "1350000000.000000000000000000",
+        "share_percentage": 0.013990038091713439
+    },
+    {
+        "delegator_address": "neutron1rjyek90sd3r4jnln33hpdx6gp2kjehlfu6rmwm",
+        "shares": "1350000000.000000000000000000",
+        "share_percentage": 0.013990038091713439
+    },
+    {
+        "delegator_address": "neutron1ztztls0y0fz5q0h4gxmpymx530h9uyrymum645",
+        "shares": "1350000000.000000000000000000",
+        "share_percentage": 0.013990038091713439
+    },
+    {
+        "delegator_address": "neutron1rgdal6rfhycu5lafgmueal80jx36a33azk354h",
+        "shares": "1348373804.000000000000000000",
+        "share_percentage": 0.013973185836910037
+    },
+    {
+        "delegator_address": "neutron1qdmqlz6pgve6z2tg7kxp9cgj7g008q5p34pfpj",
+        "shares": "1322000000.000000000000000000",
+        "share_percentage": 0.013699874338700123
+    },
+    {
+        "delegator_address": "neutron1gnz30c42clfyh975y8ummegc7sdcnp8canvspv",
+        "shares": "1317262781.000000000000000000",
+        "share_percentage": 0.01365078257998991
+    },
+    {
+        "delegator_address": "neutron14g94j2lu49z5gg68hd75mwrrcu888c85lldsu8",
+        "shares": "1300000000.000000000000000000",
+        "share_percentage": 0.01347188853276109
+    },
+    {
+        "delegator_address": "neutron1en3rjyud0wh0fhvg96drm8hsa44mgxlyvpfnng",
+        "shares": "1300000000.000000000000000000",
+        "share_percentage": 0.01347188853276109
+    },
+    {
+        "delegator_address": "neutron1svhh2kye9dxv6hgwreh3qpp9385sfqfe6hnvy7",
+        "shares": "1300000000.000000000000000000",
+        "share_percentage": 0.01347188853276109
+    },
+    {
+        "delegator_address": "neutron1t5s70uqum35lrj696h7m9vvhyx05anrdw9j5f8",
+        "shares": "1300000000.000000000000000000",
+        "share_percentage": 0.01347188853276109
+    },
+    {
+        "delegator_address": "neutron1y999lt6hmu6646yuzqlg0ugncp7u3ruq4v22q4",
+        "shares": "1300000000.000000000000000000",
+        "share_percentage": 0.01347188853276109
+    },
+    {
+        "delegator_address": "neutron1ht3uey6ncvgaayj2gfx0l39dsmddds66776tqm",
+        "shares": "1295000000.000000000000000000",
+        "share_percentage": 0.013420073576865855
+    },
+    {
+        "delegator_address": "neutron182wwtw3mdwtsgpge6gd3jafm25g0x2t7d7m2pq",
+        "shares": "1281000000.000000000000000000",
+        "share_percentage": 0.013274991700359198
+    },
+    {
+        "delegator_address": "neutron1ew24m86hh09p8mum38q2zjq668677ysd0lgt6n",
+        "shares": "1268465098.000000000000000000",
+        "share_percentage": 0.013145092621502978
+    },
+    {
+        "delegator_address": "neutron1qkugghsmeyxutcmqc8tlqwwfq4nskyqwyvcmfp",
+        "shares": "1263000000.000000000000000000",
+        "share_percentage": 0.013088457859136348
+    },
+    {
+        "delegator_address": "neutron179urwhjmhuphzc4f58z4du988tlkysz00w5ewg",
+        "shares": "1262429144.000000000000000000",
+        "share_percentage": 0.013082542083443845
+    },
+    {
+        "delegator_address": "neutron19mf50s7zfv543fer6z8dzhuecj7nfdxf7syekd",
+        "shares": "1260000000.000000000000000000",
+        "share_percentage": 0.013057368885599208
+    },
+    {
+        "delegator_address": "neutron1vqlj2l6r5qc7a2zt2dmsl3wwfuu85ergwkgqk8",
+        "shares": "1255000000.000000000000000000",
+        "share_percentage": 0.013005553929703973
+    },
+    {
+        "delegator_address": "neutron134dlvy57p9mafrjc32ef90kz0l5n89uh46rvsa",
+        "shares": "1250000000.000000000000000000",
+        "share_percentage": 0.012953738973808738
+    },
+    {
+        "delegator_address": "neutron1du056ue7c4ysu5yggpva8anzgqhmj8rlhj5waf",
+        "shares": "1249000000.000000000000000000",
+        "share_percentage": 0.012943375982629691
+    },
+    {
+        "delegator_address": "neutron1m25t9e8y65y97jg6trhcdl7zhwnm5zv5zltuqe",
+        "shares": "1236000000.000000000000000000",
+        "share_percentage": 0.01280865709730208
+    },
+    {
+        "delegator_address": "neutron1l9z04xanpxxa6n8jnyt2etma3rd2k4wnmrk3mz",
+        "shares": "1234000000.000000000000000000",
+        "share_percentage": 0.012787931114943989
+    },
+    {
+        "delegator_address": "neutron1lhe3jxf3pr5g2g2crf9uv2avz8wvtzqu5mdhrd",
+        "shares": "1230000000.000000000000000000",
+        "share_percentage": 0.012746479150227799
+    },
+    {
+        "delegator_address": "neutron1vgmgn2vlh08zjcehlkawkm68msuawu0kx3ky24",
+        "shares": "1225286277.000000000000000000",
+        "share_percentage": 0.01269763088035833
+    },
+    {
+        "delegator_address": "neutron18pzhgulxrpm8sckxyg2nshk4fc58wwfcenz8su",
+        "shares": "1210000000.000000000000000000",
+        "share_percentage": 0.012539219326646861
+    },
+    {
+        "delegator_address": "neutron1jm43y026aktufmamp6qf4m234rtkh77m8su3pt",
+        "shares": "1199043452.000000000000000000",
+        "share_percentage": 0.012425676716370054
+    },
+    {
+        "delegator_address": "neutron1hhpkxdljmzv8jyfp2lw2mx9mfehhuzl2sxsg5r",
+        "shares": "1190000000.000000000000000000",
+        "share_percentage": 0.01233195950306592
+    },
+    {
+        "delegator_address": "neutron1krkgnwrrtwaycgxupk5384k2nyskxteqhmxt4m",
+        "shares": "1190000000.000000000000000000",
+        "share_percentage": 0.01233195950306592
+    },
+    {
+        "delegator_address": "neutron1vl4gcjvzveclwx4d3at0ehmsukzayxu0r69c4t",
+        "shares": "1187000000.000000000000000000",
+        "share_percentage": 0.012300870529528777
+    },
+    {
+        "delegator_address": "neutron10yzuy9zywjgm2escjg8vw6zzh85vhw8x507eh3",
+        "shares": "1180000000.000000000000000000",
+        "share_percentage": 0.01222832959127545
+    },
+    {
+        "delegator_address": "neutron1kh9pkqsw8ad0pd04x52r9nh2q6yrdwgqgj57uy",
+        "shares": "1180000000.000000000000000000",
+        "share_percentage": 0.01222832959127545
+    },
+    {
+        "delegator_address": "neutron1wygsp6depahahyg8zn0q5w358gceh5sy63el6t",
+        "shares": "1175890208.000000000000000000",
+        "share_percentage": 0.012185739853031731
+    },
+    {
+        "delegator_address": "neutron1qmtmahmeux8rkurqz5p2yda5nc45zdj2sg5duc",
+        "shares": "1175548276.000000000000000000",
+        "share_percentage": 0.012182196414731897
+    },
+    {
+        "delegator_address": "neutron1lwg7p3c9y5l8m0m7234qgxuw3z83fzjfngpq66",
+        "shares": "1175000000.000000000000000000",
+        "share_percentage": 0.012176514635380215
+    },
+    {
+        "delegator_address": "neutron1mvk8603ksv5spt9epgruemcqdh3qruze4j67y4",
+        "shares": "1173096499.000000000000000000",
+        "share_percentage": 0.012156788671307907
+    },
+    {
+        "delegator_address": "neutron1wlureh2j6exueae8hlp5v67uedjvesjrfu4dzl",
+        "shares": "1166500000.000000000000000000",
+        "share_percentage": 0.012088429210358315
+    },
+    {
+        "delegator_address": "neutron1dsphx3adecx5jxd5ajzce02mv3zle9k7fgw37c",
+        "shares": "1160000000.000000000000000000",
+        "share_percentage": 0.01202106976769451
+    },
+    {
+        "delegator_address": "neutron1ws8rhht4ds3e68ktdehqwnxstg2cmu059put9v",
+        "shares": "1158000000.000000000000000000",
+        "share_percentage": 0.012000343785336416
+    },
+    {
+        "delegator_address": "neutron1y4c3nd9yf4s4fh074w56r4gw7rfdxsd9hrulev",
+        "shares": "1151053798.000000000000000000",
+        "share_percentage": 0.011928360355282537
+    },
+    {
+        "delegator_address": "neutron1lf340tlnkmddzuh9lhnekvtzhhaejdz27n8eyl",
+        "shares": "1144064014.000000000000000000",
+        "share_percentage": 0.011855925285347093
+    },
+    {
+        "delegator_address": "neutron1ad34eu5dyfjc8zmtjzm4zz8067t8qm3kwk4ppl",
+        "shares": "1140000000.000000000000000000",
+        "share_percentage": 0.01181380994411357
+    },
+    {
+        "delegator_address": "neutron19s9yvml28up5hwx9sgvs3zd796wfg8pgd5pv82",
+        "shares": "1138044124.000000000000000000",
+        "share_percentage": 0.011793541218378261
+    },
+    {
+        "delegator_address": "neutron1ngy08w0k6u02gse54fvqt3mzs8y63hxv5e33fs",
+        "shares": "1131000000.000000000000000000",
+        "share_percentage": 0.011720543023502148
+    },
+    {
+        "delegator_address": "neutron1tr8em90ramvug087r9husz704kp9h6vhgh7dlf",
+        "shares": "1119827348.000000000000000000",
+        "share_percentage": 0.011604760929379586
+    },
+    {
+        "delegator_address": "neutron16r6n2phn6asrn9n9efht3mrz3k2dyfw4mfp20x",
+        "shares": "1115000000.000000000000000000",
+        "share_percentage": 0.011554735164637396
+    },
+    {
+        "delegator_address": "neutron1fmzj6qflfskfvleslky0ghmgumwapdun0s6vz2",
+        "shares": "1112306536.000000000000000000",
+        "share_percentage": 0.011526822820964315
+    },
+    {
+        "delegator_address": "neutron18nnp969e6kl0jfaxkltm98u6p4scc24sj2u2e2",
+        "shares": "1110000000.000000000000000000",
+        "share_percentage": 0.01150292020874216
+    },
+    {
+        "delegator_address": "neutron1dl2gcq66twxydx4tumt9qcrh302u9grtjt6mq4",
+        "shares": "1103000000.000000000000000000",
+        "share_percentage": 0.01143037927048883
+    },
+    {
+        "delegator_address": "neutron1su4mr6el6mmct65mk0p6ghzf43ap8xgwtdw29t",
+        "shares": "1101000000.000000000000000000",
+        "share_percentage": 0.011409653288130737
+    },
+    {
+        "delegator_address": "neutron163wv3237097u89kfptdnkkcl745erusdk6dum7",
+        "shares": "1090000000.000000000000000000",
+        "share_percentage": 0.011295660385161221
+    },
+    {
+        "delegator_address": "neutron1veecvva4vvftvgtlwa4uaaf57y06tjdlg7fn9g",
+        "shares": "1088000000.000000000000000000",
+        "share_percentage": 0.011274934402803126
+    },
+    {
+        "delegator_address": "neutron1nar56aml2dz2pe56ucmljlzlrqftlk88kpksal",
+        "shares": "1075726925.000000000000000000",
+        "share_percentage": 0.011147748634838344
+    },
+    {
+        "delegator_address": "neutron1zz424drr3pf44pehamvqug9fdfjlgnhd306u05",
+        "shares": "1074000000.000000000000000000",
+        "share_percentage": 0.011129852526296469
+    },
+    {
+        "delegator_address": "neutron1rqd0wl48u6nu5622r7h5t4ca58g3j3u23s44qh",
+        "shares": "1073000000.000000000000000000",
+        "share_percentage": 0.011119489535117422
+    },
+    {
+        "delegator_address": "neutron12t5u0gnz45d6cjq2jyqmrgpx4gn3tufxzlgvyk",
+        "shares": "1070000000.000000000000000000",
+        "share_percentage": 0.01108840056158028
+    },
+    {
+        "delegator_address": "neutron1skj3t6lp33lfagt96q80ru0yy7cvzzj62zz62h",
+        "shares": "1070000000.000000000000000000",
+        "share_percentage": 0.01108840056158028
+    },
+    {
+        "delegator_address": "neutron1ujmxgc0pcf40hgqt6veljtreua6zvmzmfdsusp",
+        "shares": "1066135346.000000000000000000",
+        "share_percentage": 0.011048351186268212
+    },
+    {
+        "delegator_address": "neutron10uyx3mjp7wptjjerp27cckd6rvdqvksceqmkjd",
+        "shares": "1066000000.000000000000000000",
+        "share_percentage": 0.011046948596864092
+    },
+    {
+        "delegator_address": "neutron1yr8hrfvvw3rkzqpxv7t3tfxhpwh4rs66dp6dz8",
+        "shares": "1065706777.000000000000000000",
+        "share_percentage": 0.0110439099295016
+    },
+    {
+        "delegator_address": "neutron14rm6elyhsx5u9xxvenfwx8anef0hsqwlgqwvu6",
+        "shares": "1060633095.000000000000000000",
+        "share_percentage": 0.010991331407690309
+    },
+    {
+        "delegator_address": "neutron1erkch362f5l9vysy7xvn2gdr0wx63a5jxgywea",
+        "shares": "1057000000.000000000000000000",
+        "share_percentage": 0.01095368167625267
+    },
+    {
+        "delegator_address": "neutron1aah82wg8zg9cwscgwtapwpakchl5zc09ujpvvj",
+        "shares": "1053000000.000000000000000000",
+        "share_percentage": 0.010912229711536483
+    },
+    {
+        "delegator_address": "neutron1twdyn7k5m8a0axg6zanh8emhs8nzy00rvgefwk",
+        "shares": "1052000000.000000000000000000",
+        "share_percentage": 0.010901866720357435
+    },
+    {
+        "delegator_address": "neutron12y0a0nttq3a2vp3kf0hvt2xw0kd8entkqad5aq",
+        "shares": "1050000000.000000000000000000",
+        "share_percentage": 0.010881140737999341
+    },
+    {
+        "delegator_address": "neutron1fzn4k96d5yclqewj2whr5lp8dj6tw08h8ulgp7",
+        "shares": "1050000000.000000000000000000",
+        "share_percentage": 0.010881140737999341
+    },
+    {
+        "delegator_address": "neutron1qrwvjwd0tpaxtmqu6zzduwpt9y4tr9pnw5e3ak",
+        "shares": "1050000000.000000000000000000",
+        "share_percentage": 0.010881140737999341
+    },
+    {
+        "delegator_address": "neutron10zrrktdguf4tdpju77htzqgtgquysr6v0rtqac",
+        "shares": "1045255073.000000000000000000",
+        "share_percentage": 0.010831969101353119
+    },
+    {
+        "delegator_address": "neutron1lfe73te0uw6xecsf3htyzvly6uq8frvqj2ft7n",
+        "shares": "1040000000.000000000000000000",
+        "share_percentage": 0.010777510826208871
+    },
+    {
+        "delegator_address": "neutron1lqxasrtznu09hffr6l82rlaq0mkcmff68aqfdj",
+        "shares": "1035000000.000000000000000000",
+        "share_percentage": 0.010725695870313636
+    },
+    {
+        "delegator_address": "neutron1q9v3vc4u8cccrrccx3jrtv2df6jafcs5caex6r",
+        "shares": "1020000000.000000000000000000",
+        "share_percentage": 0.01057025100262793
+    },
+    {
+        "delegator_address": "neutron1rdm7hnfk8tuwvmvegydrxda3khkvknhsa82gt5",
+        "shares": "1014852358.000000000000000000",
+        "share_percentage": 0.010516906033989038
+    },
+    {
+        "delegator_address": "neutron1cr0hghfp20c38md5gkwrhxvrcp8alcyycxcld9",
+        "shares": "1011100000.000000000000000000",
+        "share_percentage": 0.010478020381134413
+    },
+    {
+        "delegator_address": "neutron1cvwx28t7v5s34mwyf47slu8cwcmhw0zfskjrrp",
+        "shares": "1011086904.000000000000000000",
+        "share_percentage": 0.010477884667401932
+    },
+    {
+        "delegator_address": "neutron15ncsssyks98mg4dpnv6wc7ljqqa74rxqjkd5af",
+        "shares": "1010612119.000000000000000000",
+        "share_percentage": 0.010472964474634989
+    },
+    {
+        "delegator_address": "neutron1ag9mad77gzz255l6kqeeenjjsl2uyfh25vqz9k",
+        "shares": "1009033557.000000000000000000",
+        "share_percentage": 0.01045660585055341
+    },
+    {
+        "delegator_address": "neutron17v8w550v4rxgftsey4aqtfjjla0xf7ccqk56hr",
+        "shares": "1008000000.000000000000000000",
+        "share_percentage": 0.010445895108479368
+    },
+    {
+        "delegator_address": "neutron1ljfd0jgyyf8np4nf964kgstksg7d5t7gvex2ef",
+        "shares": "1008000000.000000000000000000",
+        "share_percentage": 0.010445895108479368
+    },
+    {
+        "delegator_address": "neutron1cq7gq7vwejp2dstj8xsszumf2a6cvjgzgruncx",
+        "shares": "1001500000.000000000000000000",
+        "share_percentage": 0.010378535665815562
+    },
+    {
+        "delegator_address": "neutron1egx653acq0ujj5c52776xcpq9ywj6p5ezla7cc",
+        "shares": "1001000000.000000000000000000",
+        "share_percentage": 0.010373354170226038
+    },
+    {
+        "delegator_address": "neutron1gq6pd9q8px97720arytdngc7zhyrxp4x3up34j",
+        "shares": "1001000000.000000000000000000",
+        "share_percentage": 0.010373354170226038
+    },
+    {
+        "delegator_address": "neutron1yzym6p00uaxt9jamqczf7v6hmucx99wrp3xl7r",
+        "shares": "1001000000.000000000000000000",
+        "share_percentage": 0.010373354170226038
+    },
+    {
+        "delegator_address": "neutron13lrdpmrlpqugu2lt62q7hj84m5yvcd22kzsfj0",
+        "shares": "1000900000.000000000000000000",
+        "share_percentage": 0.010372317871108134
+    },
+    {
+        "delegator_address": "neutron1rwxakwwswkmn60uhyglvzrx49ydgww65j5pagy",
+        "shares": "1000539779.000000000000000000",
+        "share_percentage": 0.010368584904062627
+    },
+    {
+        "delegator_address": "neutron128xlewdmtzwqtnqe6pf4kv7rz70ca39vgkzx80",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron13vvh65qe6sewsv4msz06pk8cuzr90a5608086u",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron149newrcqaxelculahpsve2pmk8jjee8x95emhy",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron149saauy7w66an2t9rsfv4we5dv254ml7xnnecl",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron14ke4h6ru936rdwq3dgvz8nuasfmdy7zp5aa0l3",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron14qyra7846r4wsqzfyhe0ryuutsh8rqkwmj36n4",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron16s02mk2zsv9z7nj30lqrspe3d9zac4vu5653kn",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron170rjplk0wty4jkwzlffsrzkc8ny6ehm3x09fvx",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron179f80mmza34qt4qvp9vtyekyutcguz0n74rar4",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron17lwems92rc9823pe3ntea8cc09ddehnxny3fcs",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron18lnd2qfx3recvrmk865twk32jnllgacrud4tsp",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron197azlmrp8wvz4446jfnxu605snegznl4efsn68",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1a6xqyhu6wdvsw7s4v5y5u6nq4qpkms28gc6x3j",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1ch3jqtvs4glegusnp30pffu2kce9gev7er8353",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1ddpnh9jpvq0r2t7qzzw0y2ylm636wzjgnhe9w2",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1e9a4r4e4vmkx2afk0m6t7l02llv58f2m3vctkh",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1ed7mufrwtrxkl5vt9p8p5sgv67n3k3ye66xrvk",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1eryhxgl8xwttfjyxfng8z4hg3r6wesmkzufnwu",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1ey5aeyezjug2xzuswl9ahkhn0mycnrvz0zae0w",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1eyrxrlusqm0vddfugtmkscy6z8q6qqelsqy8f6",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1fqsx5xmylsl9j2t6ree6tyt0dpyjwn0fadrax3",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1fsfmxf39qytl0jmpp6sntcj82f3ydres9v3x2h",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1gdfgh5lfm9gwux3ftupvm6zmlx6sxr5srdgr3q",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1gdv7kzg2lvx6k5w6nxq84q8r9z2ujpvetf24vu",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1jhlme46p9ej5t5nl56zs5n7dmve77n6gpv3smk",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1jp2c9j2ap28cd7ftzlw2ngf3tfyktzly2kxdgx",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1kxykphkk82x4pk5nzq2kq5f2r6n69k737ars83",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1mrvw2m60t4xjwxqwx57v9nze7z4zmpjhnfxc3m",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1npt7mvtdwfdjn2rl3u52th7uj9fka5supdlx24",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1nrauv89wy9c0wka6wm9jge4lc3ak0wj77nuf2a",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1p6xz8ma7xmra64susvp8lxpqlx48skg9wy0cu3",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1pxe4an9ljktfft2ctuascuu6yeu7xghq8pv8zv",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1r020k5d5p9sc2ytpa38dt56vup8m42yaz2k0qt",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1sufqfs2qwf0tsf43wm4lt0udtdas36e2zstzty",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1tgm6t3jkxtftpqcw4c52xqlq7u3g8dv7hpumhw",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1ud87wnrt5z59lcu5prhzt4swuk2s94t390xrfq",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1vqrnhwky7npt5mexmn2p7huqjcu3jdzzkxa2fj",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1w223yerpfu6yqcwdlr8j4fueg0etv8luqte2xm",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1y2knaz4gga4rrce38w5evnztsueq937pmuz9wa",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1yand4340vuf2w657zern44zmay7vtlfct3a7pr",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron1yn0dzz6f4h7t9w6wgv56fygj29mm30vqtz2jtl",
+        "shares": "1000000000.000000000000000000",
+        "share_percentage": 0.010362991179046991
+    },
+    {
+        "delegator_address": "neutron148szl02ffxxyraghvfw56p0s9yw94ejn8gmzzh",
+        "shares": "997000000.000000000000000000",
+        "share_percentage": 0.010331902205509851
+    },
+    {
+        "delegator_address": "neutron129z97xu5nrty503gqzs45ac5jp3kdrwhf0nnmw",
+        "shares": "992000000.000000000000000000",
+        "share_percentage": 0.010280087249614616
+    },
+    {
+        "delegator_address": "neutron1lq4rjthxwdjcnq7sqvp428cr3nx6t7kgu56ycs",
+        "shares": "990000000.000000000000000000",
+        "share_percentage": 0.01025936126725652
+    },
+    {
+        "delegator_address": "neutron1tmphj64qqwlet99wc5jn640uz7g4a6szhx36a7",
+        "shares": "987567658.000000000000000000",
+        "share_percentage": 0.010234154928566096
+    },
+    {
+        "delegator_address": "neutron12xuz204q2n3ulpx5px40a5z0uchqglny96g6g7",
+        "shares": "975302806.000000000000000000",
+        "share_percentage": 0.01010705437547778
+    },
+    {
+        "delegator_address": "neutron1rp43sezpnlpvds3d46l4w55rhcvh8mdv984eqq",
+        "shares": "974000000.000000000000000000",
+        "share_percentage": 0.01009355340839177
+    },
+    {
+        "delegator_address": "neutron1ac34c2dgt46q65mt0tatx6e8pj4vzcu6y9jas7",
+        "shares": "973430000.000000000000000000",
+        "share_percentage": 0.010087646503419713
+    },
+    {
+        "delegator_address": "neutron10g537wr2k2ewpufchfl96us2cp00al9w0ewnvd",
+        "shares": "970000000.000000000000000000",
+        "share_percentage": 0.010052101443675581
+    },
+    {
+        "delegator_address": "neutron1p7dmhx00k85qgyrntm9tpqektdqpwulhfycjl0",
+        "shares": "964000000.000000000000000000",
+        "share_percentage": 0.0099899234966013
+    },
+    {
+        "delegator_address": "neutron10kvhdyhev9c3h0u2apf5zaysts23u2uplz220q",
+        "shares": "945000000.000000000000000000",
+        "share_percentage": 0.009793026664199407
+    },
+    {
+        "delegator_address": "neutron1qwmejag0n8pl45nc3938nz57frckpm8dmm3l2u",
+        "shares": "940000000.000000000000000000",
+        "share_percentage": 0.009741211708304172
+    },
+    {
+        "delegator_address": "neutron1vdmh5xcq42jzc3ykevy5dpsjqmq9hfkqw8fw8g",
+        "shares": "936000000.000000000000000000",
+        "share_percentage": 0.009699759743587983
+    },
+    {
+        "delegator_address": "neutron1nsjngnxwlpc6n2v7gftzf44sgh6esza67e320q",
+        "shares": "922000000.000000000000000000",
+        "share_percentage": 0.009554677867081326
+    },
+    {
+        "delegator_address": "neutron1rcty3se5m8ll66wtfuxsgekaf2xsgd2lvhm30m",
+        "shares": "910536910.000000000000000000",
+        "share_percentage": 0.009435885966526704
+    },
+    {
+        "delegator_address": "neutron1fk6j237q296tte4jkatkfftu3tmnnm46hjjw73",
+        "shares": "905000000.000000000000000000",
+        "share_percentage": 0.009378507017037527
+    },
+    {
+        "delegator_address": "neutron14kc4k35gpnc589w3034u5u6pdsxew9rd306vzx",
+        "shares": "901000000.000000000000000000",
+        "share_percentage": 0.00933705505232134
+    },
+    {
+        "delegator_address": "neutron1urp858n70jdrz84zsj9qsyjq4nrpa2d99kz6wr",
+        "shares": "900000000.000000000000000000",
+        "share_percentage": 0.009326692061142292
+    },
+    {
+        "delegator_address": "neutron1ny5gqan327sj87fg89mcjhp4lw2dx34edkrtkz",
+        "shares": "895000000.000000000000000000",
+        "share_percentage": 0.009274877105247057
+    },
+    {
+        "delegator_address": "neutron1hpcge9u4s4epwrg55w4vahsctld8am0dsft3sh",
+        "shares": "889000000.000000000000000000",
+        "share_percentage": 0.009212699158172777
+    },
+    {
+        "delegator_address": "neutron1c85l8j69ccge4c3gxxhlmkdy7dvhqskeud0uxn",
+        "shares": "885000000.000000000000000000",
+        "share_percentage": 0.009171247193456586
+    },
+    {
+        "delegator_address": "neutron1ch20ap73dqudanw0ufhpn2jpvl6zayqee84qg0",
+        "shares": "885000000.000000000000000000",
+        "share_percentage": 0.009171247193456586
+    },
+    {
+        "delegator_address": "neutron13lzrvcctf8qd6nq20fdtkdc8ssqp5xlu8k27nk",
+        "shares": "880000000.000000000000000000",
+        "share_percentage": 0.009119432237561353
+    },
+    {
+        "delegator_address": "neutron1mmh0wqwq9wluc6zle5evtu5nv84y5wc5d753ep",
+        "shares": "880000000.000000000000000000",
+        "share_percentage": 0.009119432237561353
+    },
+    {
+        "delegator_address": "neutron1gjh9afdalkh5tk3ptr0yw4fd4eguhfjpwj7pr4",
+        "shares": "865000000.000000000000000000",
+        "share_percentage": 0.008963987369875647
+    },
+    {
+        "delegator_address": "neutron1f7sa4nr5nhlt57vy5553tqzs5dlz7x6jz94y5n",
+        "shares": "854614846.000000000000000000",
+        "share_percentage": 0.008856366110580603
+    },
+    {
+        "delegator_address": "neutron1lxptmy60dpjn2wck7lrseg90krh30drsguh6rp",
+        "shares": "853908613.000000000000000000",
+        "share_percentage": 0.008849047424231251
+    },
+    {
+        "delegator_address": "neutron1ndj09h58adc0fdrls4hgz70tzz67jjcj4vvd00",
+        "shares": "852000000.000000000000000000",
+        "share_percentage": 0.008829268484548037
+    },
+    {
+        "delegator_address": "neutron1k3ha9akkws836q7wnea50sjf40pjz8xqxass48",
+        "shares": "851000000.000000000000000000",
+        "share_percentage": 0.00881890549336899
+    },
+    {
+        "delegator_address": "neutron12rnu5pl8rd0nvjym6qx45dddv85y5santrysek",
+        "shares": "824000000.000000000000000000",
+        "share_percentage": 0.00853910473153472
+    },
+    {
+        "delegator_address": "neutron1t0el9kda5fu9msj8nj4xfhwt07sj7aj0lhdy8g",
+        "shares": "810000000.000000000000000000",
+        "share_percentage": 0.008394022855028063
+    },
+    {
+        "delegator_address": "neutron14wv264ngauxx9v5kyrc33yd6q3ek2jvdsxsyw3",
+        "shares": "801000000.000000000000000000",
+        "share_percentage": 0.00830075593441664
+    },
+    {
+        "delegator_address": "neutron14fe033g54cq9rvjqvqtk3ry2dwykd8kwaf0ag3",
+        "shares": "800000000.000000000000000000",
+        "share_percentage": 0.008290392943237593
+    },
+    {
+        "delegator_address": "neutron1758fu9jzgs2s9rh2qx68m04up0cdev2uwthdu2",
+        "shares": "800000000.000000000000000000",
+        "share_percentage": 0.008290392943237593
+    },
+    {
+        "delegator_address": "neutron1aq23gdxq0x4s23r3n790uhf5r5c2zw2axnfuz3",
+        "shares": "800000000.000000000000000000",
+        "share_percentage": 0.008290392943237593
+    },
+    {
+        "delegator_address": "neutron1g004ecz58wu3nsj8n66w60zz8szksl6aj9h6n2",
+        "shares": "800000000.000000000000000000",
+        "share_percentage": 0.008290392943237593
+    },
+    {
+        "delegator_address": "neutron1xs3tfpx5esanwc4taz5n30md4633232al5amq5",
+        "shares": "800000000.000000000000000000",
+        "share_percentage": 0.008290392943237593
+    },
+    {
+        "delegator_address": "neutron1pp6d46z85zn4gkueym4msv9hwca5u92ex3ghka",
+        "shares": "798000000.000000000000000000",
+        "share_percentage": 0.0082696669608795
+    },
+    {
+        "delegator_address": "neutron17c4xkk6qu3x3qlge3tehqwyalhqgy65tlap8c7",
+        "shares": "786012500.000000000000000000",
+        "share_percentage": 0.008145440604120672
+    },
+    {
+        "delegator_address": "neutron1ms4w5swfu5c0stk7nzwvsawtakhsglyq2kylgm",
+        "shares": "780000000.000000000000000000",
+        "share_percentage": 0.008083133119656654
+    },
+    {
+        "delegator_address": "neutron1w7de3ejt83mgj3keqkvq9p96s0qjygpxyfnlhg",
+        "shares": "770351800.000000000000000000",
+        "share_percentage": 0.00798314890816297
+    },
+    {
+        "delegator_address": "neutron12deul42prkuxe3aztjduqxuxey8xcdq5fsad58",
+        "shares": "770000000.000000000000000000",
+        "share_percentage": 0.007979503207866183
+    },
+    {
+        "delegator_address": "neutron1vf5hpxw3yp8m53p9tej42tacdknewczurltkn5",
+        "shares": "770000000.000000000000000000",
+        "share_percentage": 0.007979503207866183
+    },
+    {
+        "delegator_address": "neutron1cvmyym9smwvzjt2w8tc088d2pe4wqtfr9wmu8j",
+        "shares": "760000000.000000000000000000",
+        "share_percentage": 0.007875873296075713
+    },
+    {
+        "delegator_address": "neutron1m9wceej5mcfv33uvczvjn07hay9za7qpc563qd",
+        "shares": "755000000.000000000000000000",
+        "share_percentage": 0.007824058340180478
+    },
+    {
+        "delegator_address": "neutron1xx8p2eawfp4ll9zx3hy8d55n94mqlv0wqmdul2",
+        "shares": "751000000.000000000000000000",
+        "share_percentage": 0.007782606375464291
+    },
+    {
+        "delegator_address": "neutron163ld7lhp6msuzu3ely03me55uawkp7xrkt4rx5",
+        "shares": "750000000.000000000000000000",
+        "share_percentage": 0.007772243384285243
+    },
+    {
+        "delegator_address": "neutron1e54cnjnflp3lmrxq00xvaflxtt4jgajlq255le",
+        "shares": "750000000.000000000000000000",
+        "share_percentage": 0.007772243384285243
+    },
+    {
+        "delegator_address": "neutron1qvzv0p0rq45u6ym4ul6r5davpjnhdd6cxscv84",
+        "shares": "750000000.000000000000000000",
+        "share_percentage": 0.007772243384285243
+    },
+    {
+        "delegator_address": "neutron1apk3y2qtv4wtcf46n4cpk6d86677qymr4wm0kr",
+        "shares": "748000000.000000000000000000",
+        "share_percentage": 0.007751517401927149
+    },
+    {
+        "delegator_address": "neutron1p8ktdc6st0tcd0rqx6eu32xpcf7472su5ncenw",
+        "shares": "747000000.000000000000000000",
+        "share_percentage": 0.007741154410748103
+    },
+    {
+        "delegator_address": "neutron16ajz3p6f4rtdftgjfq9fyh2cav4zkamap5qnge",
+        "shares": "733000000.000000000000000000",
+        "share_percentage": 0.007596072534241445
+    },
+    {
+        "delegator_address": "neutron12yka2ux5h9f449sfjthlqvldu5rtrdxhrhgu2t",
+        "shares": "728000000.000000000000000000",
+        "share_percentage": 0.00754425757834621
+    },
+    {
+        "delegator_address": "neutron1665v0p4a4nfqrn6xsjf4wj2t37ljv2egfdmm95",
+        "shares": "708000000.000000000000000000",
+        "share_percentage": 0.00733699775476527
+    },
+    {
+        "delegator_address": "neutron1ujc2kt26d3a0x7v92e5acfu952j228f20wkz95",
+        "shares": "703403517.000000000000000000",
+        "share_percentage": 0.0072893644419816305
+    },
+    {
+        "delegator_address": "neutron1n0tmqezxuhyw6scau7kcyuhx9xsg4kay23kgmj",
+        "shares": "701000000.000000000000000000",
+        "share_percentage": 0.00726445681651194
+    },
+    {
+        "delegator_address": "neutron1w34g3jhkc63f4pv46flmq5e0uu6ql4lhl65dnh",
+        "shares": "701000000.000000000000000000",
+        "share_percentage": 0.00726445681651194
+    },
+    {
+        "delegator_address": "neutron133wz5medwjss7dzs0z84lha4jjglem6lm44x6m",
+        "shares": "700000000.000000000000000000",
+        "share_percentage": 0.0072540938253328946
+    },
+    {
+        "delegator_address": "neutron1h07s5fs63cav0mmt3waljfnredryhtssgyz4hg",
+        "shares": "700000000.000000000000000000",
+        "share_percentage": 0.0072540938253328946
+    },
+    {
+        "delegator_address": "neutron14rq6pcf6kuy4drp9ztejvpja7c3hcgx60786lc",
+        "shares": "688500000.000000000000000000",
+        "share_percentage": 0.007134919426773853
+    },
+    {
+        "delegator_address": "neutron1d6lgeud2sxqu0emqskyryp9rqw64xlwyj8mp0g",
+        "shares": "686000000.000000000000000000",
+        "share_percentage": 0.007109011948826236
+    },
+    {
+        "delegator_address": "neutron1ezjdtssv7uwl77k392f7jdyqed2gc5gme0p6jp",
+        "shares": "681392706.000000000000000000",
+        "share_percentage": 0.00706126660174496
+    },
+    {
+        "delegator_address": "neutron1kjp9jl5xfjrevltffwulr64enlfzkpcv4wgcta",
+        "shares": "677169385.000000000000000000",
+        "share_percentage": 0.007017500363475676
+    },
+    {
+        "delegator_address": "neutron1k2nwfplqqwz0zpk8j0qzku5vff2ymyk38jkx0u",
+        "shares": "667673328.000000000000000000",
+        "share_percentage": 0.006919092808548949
+    },
+    {
+        "delegator_address": "neutron1ylvt7wuj05m5wml0822n2p9tgczxn8g3jlq4c2",
+        "shares": "667000000.000000000000000000",
+        "share_percentage": 0.006912115116424342
+    },
+    {
+        "delegator_address": "neutron1vqwyz34d3sm5uljsg52em7juxgwf029rj2yyjk",
+        "shares": "662000000.000000000000000000",
+        "share_percentage": 0.006860300160529109
+    },
+    {
+        "delegator_address": "neutron156jqyu9asf9l497qa9hjfklazg9svwdjmzydjj",
+        "shares": "660000000.000000000000000000",
+        "share_percentage": 0.006839574178171014
+    },
+    {
+        "delegator_address": "neutron1sjwxcp79m26fs8xl83uwjq4ue5hldd9a8yajfw",
+        "shares": "660000000.000000000000000000",
+        "share_percentage": 0.006839574178171014
+    },
+    {
+        "delegator_address": "neutron1adqeglychswah04f8w3jfnurjkdt9f8harfe0t",
+        "shares": "649000000.000000000000000000",
+        "share_percentage": 0.0067255812752014974
+    },
+    {
+        "delegator_address": "neutron1hylm2z674zqneaj4pzhrjmkepvrqwe2w7u90cf",
+        "shares": "647000000.000000000000000000",
+        "share_percentage": 0.006704855292843403
+    },
+    {
+        "delegator_address": "neutron1spga9q4awcaq79s7556x54jn9umdu7jne7n36g",
+        "shares": "645000000.000000000000000000",
+        "share_percentage": 0.00668412931048531
+    },
+    {
+        "delegator_address": "neutron1hf5kml7l55v2ul7j4vzsxs4gcn3af9zn2t0df4",
+        "shares": "641570399.000000000000000000",
+        "share_percentage": 0.006648588385574659
+    },
+    {
+        "delegator_address": "neutron176yfqcrd26rykqxudgv35yfeturqrjxrt0nspj",
+        "shares": "640364913.000000000000000000",
+        "share_percentage": 0.006636095944790194
+    },
+    {
+        "delegator_address": "neutron1xhkqcuru0dqe6jgxkatx475cg0s39l8r74wgxa",
+        "shares": "633548890.000000000000000000",
+        "share_percentage": 0.006565461558565013
+    },
+    {
+        "delegator_address": "neutron1llvcmfyx305apduvu564yx2qksrmn7v7etpl6m",
+        "shares": "632946997.000000000000000000",
+        "share_percentage": 0.006559224146715282
+    },
+    {
+        "delegator_address": "neutron1xxcggtdwg8lggjtkagw9rf4y6lhmc6d38khkat",
+        "shares": "630413499.000000000000000000",
+        "share_percentage": 0.006532969529289149
+    },
+    {
+        "delegator_address": "neutron1psdanz4ljewzl7e75p9tzasx3kjrt6wtmvza4e",
+        "shares": "630000000.000000000000000000",
+        "share_percentage": 0.006528684442799604
+    },
+    {
+        "delegator_address": "neutron1pemk29we3kguf3nlepdppezj75vdwjwueft7ue",
+        "shares": "625000000.000000000000000000",
+        "share_percentage": 0.006476869486904369
+    },
+    {
+        "delegator_address": "neutron13eljtda48tz7xpdcxj7hse9vsea7vwklej5q60",
+        "shares": "624125439.000000000000000000",
+        "share_percentage": 0.006467806418975831
+    },
+    {
+        "delegator_address": "neutron1t4umn5q4rxmxjvdp8pptwxdx3eag0qhww8p06f",
+        "shares": "617760202.000000000000000000",
+        "share_percentage": 0.006401843524092288
+    },
+    {
+        "delegator_address": "neutron1nuzsd3ju772gd9ln72xq8s9d57aecesczt7zx4",
+        "shares": "615887263.000000000000000000",
+        "share_percentage": 0.0063824342737563945
+    },
+    {
+        "delegator_address": "neutron1ktz9a5t4e4fz5tvkc0z058qv3vksedkken5uj7",
+        "shares": "615100000.000000000000000000",
+        "share_percentage": 0.006374275874231804
+    },
+    {
+        "delegator_address": "neutron1ntxe5vwzzjgsg9qftvykp2p8t7xjpe4cvh9ljs",
+        "shares": "615000000.000000000000000000",
+        "share_percentage": 0.006373239575113899
+    },
+    {
+        "delegator_address": "neutron1r05pf30c9xtjelpeuun0v7ufrx4vjcak0wh0hg",
+        "shares": "613000000.000000000000000000",
+        "share_percentage": 0.006352513592755805
+    },
+    {
+        "delegator_address": "neutron1pusrekt4mjre3ztwpfackzx4n964gd848jpxpc",
+        "shares": "611250000.000000000000000000",
+        "share_percentage": 0.006334378358192474
+    },
+    {
+        "delegator_address": "neutron1cxful6l52eh0aknkufwtwmre7c4lvhv3dmp3qj",
+        "shares": "605915237.000000000000000000",
+        "share_percentage": 0.006279094256281167
+    },
+    {
+        "delegator_address": "neutron1gf2wkrjal63pw90lrmf2ay6w79dz0ejajtc23p",
+        "shares": "605000000.000000000000000000",
+        "share_percentage": 0.006269609663323431
+    },
+    {
+        "delegator_address": "neutron1eekszultym675a64cr00fzagsxc4g6sj0f6pkj",
+        "shares": "604000000.000000000000000000",
+        "share_percentage": 0.006259246672144383
+    },
+    {
+        "delegator_address": "neutron1u0hntas5w7fgk5y9et2ava8ajgny8uq200j9v6",
+        "shares": "603500000.000000000000000000",
+        "share_percentage": 0.006254065176554859
+    },
+    {
+        "delegator_address": "neutron1jdpu3g2hjt5mxexnf3ywqkafau8ct3fkn6ugkc",
+        "shares": "601000000.000000000000000000",
+        "share_percentage": 0.006228157698607241
+    },
+    {
+        "delegator_address": "neutron1243yhe2plcqqkhwkl8dwv53nzvxrdye2s6ymqa",
+        "shares": "600000000.000000000000000000",
+        "share_percentage": 0.0062177947074281955
+    },
+    {
+        "delegator_address": "neutron1685amgvff52mn03vf2xta5sgwxv8chq5mk276e",
+        "shares": "600000000.000000000000000000",
+        "share_percentage": 0.0062177947074281955
+    },
+    {
+        "delegator_address": "neutron1af04sye2hf9du6kas5usdzcylqv6dtxrpchx9f",
+        "shares": "600000000.000000000000000000",
+        "share_percentage": 0.0062177947074281955
+    },
+    {
+        "delegator_address": "neutron1mfudcqr8yv0gs6rr0yvanzhjnrta74qvmhwc6x",
+        "shares": "600000000.000000000000000000",
+        "share_percentage": 0.0062177947074281955
+    },
+    {
+        "delegator_address": "neutron1pehvghr7mzgmlm96yasv08n42plp0h3wurlcgf",
+        "shares": "600000000.000000000000000000",
+        "share_percentage": 0.0062177947074281955
+    },
+    {
+        "delegator_address": "neutron1vpdehzac9n8lz22xhz09kstttf8kedp2e7xlf8",
+        "shares": "600000000.000000000000000000",
+        "share_percentage": 0.0062177947074281955
+    },
+    {
+        "delegator_address": "neutron1vvf5dkjyeays63wxrlf8evfgq39xh2jgd3v6xm",
+        "shares": "600000000.000000000000000000",
+        "share_percentage": 0.0062177947074281955
+    },
+    {
+        "delegator_address": "neutron1y06yfqfxxlq5r432gkqtt09rfnwga3wjfjt9lu",
+        "shares": "600000000.000000000000000000",
+        "share_percentage": 0.0062177947074281955
+    },
+    {
+        "delegator_address": "neutron16s3nqpvl6jypaxg5j2u68kejf5fuegtx8askmu",
+        "shares": "599635655.000000000000000000",
+        "share_percentage": 0.006214019003407064
+    },
+    {
+        "delegator_address": "neutron1a88t58mdm6mg4xylp996qng8zec52m79dwpamm",
+        "shares": "599400000.000000000000000000",
+        "share_percentage": 0.006211576912720767
+    },
+    {
+        "delegator_address": "neutron1hpty7tjekjs9k0rvxq3gra9z8khuedvv23e365",
+        "shares": "596000000.000000000000000000",
+        "share_percentage": 0.006176342742712006
+    },
+    {
+        "delegator_address": "neutron1swxwy66zzel8gk6vn86rn3mqenuq89tsjcthyg",
+        "shares": "590000000.000000000000000000",
+        "share_percentage": 0.006114164795637725
+    },
+    {
+        "delegator_address": "neutron1uta2mx7jdxc0tydznryd8a8we6p3xntstfj33l",
+        "shares": "586000000.000000000000000000",
+        "share_percentage": 0.0060727128309215365
+    },
+    {
+        "delegator_address": "neutron1eunxzdxf2efqsfqmgw6rat56a0kkeh5qa2qr3v",
+        "shares": "582150000.000000000000000000",
+        "share_percentage": 0.006032815314882207
+    },
+    {
+        "delegator_address": "neutron1cua62ztq3mjkwyx6l7698z5ekt37em7j2h84e7",
+        "shares": "580000000.000000000000000000",
+        "share_percentage": 0.006010534883847255
+    },
+    {
+        "delegator_address": "neutron1jhe5fujgm8j7xwl66m5yykjna32q3deurywzkq",
+        "shares": "580000000.000000000000000000",
+        "share_percentage": 0.006010534883847255
+    },
+    {
+        "delegator_address": "neutron1jkjs85vu8ez3tt8lwrzg389rnklfnrjdl5hku2",
+        "shares": "580000000.000000000000000000",
+        "share_percentage": 0.006010534883847255
+    },
+    {
+        "delegator_address": "neutron1q9urr92mhcy88axsn4u6yj89rv4xtdt00e9yfs",
+        "shares": "580000000.000000000000000000",
+        "share_percentage": 0.006010534883847255
+    },
+    {
+        "delegator_address": "neutron12z6epvkevqa5z80k726qwhhttjs3jy3my7nw6w",
+        "shares": "578977285.000000000000000000",
+        "share_percentage": 0.005999936497323576
+    },
+    {
+        "delegator_address": "neutron103rqha0kps4kl9wr0lzqcjahfp3p6d5uuftxc5",
+        "shares": "574000000.000000000000000000",
+        "share_percentage": 0.005948356936772973
+    },
+    {
+        "delegator_address": "neutron15yfteczvqvhcs574dwgxl4pfjuh884zqc7jq7l",
+        "shares": "567000000.000000000000000000",
+        "share_percentage": 0.005875815998519644
+    },
+    {
+        "delegator_address": "neutron1954snq6x9s5hqarsvlnevryzj93swlhs3jre3u",
+        "shares": "560000000.000000000000000000",
+        "share_percentage": 0.005803275060266315
+    },
+    {
+        "delegator_address": "neutron1asrupfzjyepcjhafz2fjcz63wtslj4uekyzul3",
+        "shares": "559000000.000000000000000000",
+        "share_percentage": 0.005792912069087268
+    },
+    {
+        "delegator_address": "neutron19tm2nnw960kwjdd2y48cvce93z8wjz4aqc57jn",
+        "shares": "557300000.000000000000000000",
+        "share_percentage": 0.005775294984082888
+    },
+    {
+        "delegator_address": "neutron1hc9f8awt3fxzr7jqsxpl3xru730n23xhxgv4f7",
+        "shares": "555762156.000000000000000000",
+        "share_percentage": 0.005759358320276138
+    },
+    {
+        "delegator_address": "neutron1wql9va3xmvrazppgnqzpajaxflpuzru9ltpn4p",
+        "shares": "553000000.000000000000000000",
+        "share_percentage": 0.005730734122012986
+    },
+    {
+        "delegator_address": "neutron19a7gz0j9zrmgtfyc8gtj4kr89alhsu52xvvxgq",
+        "shares": "550000000.000000000000000000",
+        "share_percentage": 0.005699645148475846
+    },
+    {
+        "delegator_address": "neutron1k7jf576xnk20u7k8ca85lsnsdsu9q7wa24c6c5",
+        "shares": "550000000.000000000000000000",
+        "share_percentage": 0.005699645148475846
+    },
+    {
+        "delegator_address": "neutron1p8nx0y6d8y62dld5f0yu06mv7uxeenl32add4l",
+        "shares": "550000000.000000000000000000",
+        "share_percentage": 0.005699645148475846
+    },
+    {
+        "delegator_address": "neutron1pastd3zz0g6r278ql0hfl5ajxp7rwt3gvpd4z9",
+        "shares": "550000000.000000000000000000",
+        "share_percentage": 0.005699645148475846
+    },
+    {
+        "delegator_address": "neutron1qzu34xw9hh5jndqsex73gydjnr5ck6gjwf9t5r",
+        "shares": "550000000.000000000000000000",
+        "share_percentage": 0.005699645148475846
+    },
+    {
+        "delegator_address": "neutron1z0c3qmngznuyhn7sh4mdec3fsfkcyyvg6t4sud",
+        "shares": "550000000.000000000000000000",
+        "share_percentage": 0.005699645148475846
+    },
+    {
+        "delegator_address": "neutron1hvlxf7l5wq5uequzyqfv9a3cg28gvhm6kdgs5u",
+        "shares": "548000000.000000000000000000",
+        "share_percentage": 0.005678919166117751
+    },
+    {
+        "delegator_address": "neutron1cravyf0gzhr85rfpwvtw5v2jpq6zwen487lgrl",
+        "shares": "540080276.000000000000000000",
+        "share_percentage": 0.005596847136165265
+    },
+    {
+        "delegator_address": "neutron1wde0zymveww6030eaywjc3cm7nzfjfyh9pm3j2",
+        "shares": "540000000.000000000000000000",
+        "share_percentage": 0.0055960152366853755
+    },
+    {
+        "delegator_address": "neutron1vrrc20dztnywrst4rkla2749fgsfzfqh3drktr",
+        "shares": "537694077.000000000000000000",
+        "share_percentage": 0.005572118976976814
+    },
+    {
+        "delegator_address": "neutron1mjd97l9s4ur3cs9u7yy237pt2cdw5zekghfdl0",
+        "shares": "536000000.000000000000000000",
+        "share_percentage": 0.005554563271969188
+    },
+    {
+        "delegator_address": "neutron1katw2uua8ndjt097nfha06ua6m809g7q3zgy95",
+        "shares": "535941829.000000000000000000",
+        "share_percentage": 0.005553960446409311
+    },
+    {
+        "delegator_address": "neutron135gfvyr5wgu0ass8thdk29s06dnf34fd4nzflw",
+        "shares": "535000000.000000000000000000",
+        "share_percentage": 0.00554420028079014
+    },
+    {
+        "delegator_address": "neutron1r67an3ttyq9pvtr890l9d9zcx2jfacwzajwjnz",
+        "shares": "533000000.000000000000000000",
+        "share_percentage": 0.005523474298432046
+    },
+    {
+        "delegator_address": "neutron1zrg64dcv0u8q2ru4xy3t9vguf7ug0lqz8fxx58",
+        "shares": "531271621.000000000000000000",
+        "share_percentage": 0.005505563122100997
+    },
+    {
+        "delegator_address": "neutron12jkzjgxz5nmy0rec30w04ntmz22kk3p6jxxe3u",
+        "shares": "530941699.000000000000000000",
+        "share_percentage": 0.005502144143325223
+    },
+    {
+        "delegator_address": "neutron104fq56d9attl4m709h7mgx9lwqklnh05qnq3sp",
+        "shares": "530000000.000000000000000000",
+        "share_percentage": 0.005492385324894906
+    },
+    {
+        "delegator_address": "neutron1rgz26u608kuu5emafslavyleutnxslpff59cnh",
+        "shares": "528313262.000000000000000000",
+        "share_percentage": 0.005474905673879542
+    },
+    {
+        "delegator_address": "neutron12h9e9ten7vlfjqsyrh08gm66l8mzygchjka2rs",
+        "shares": "526000000.000000000000000000",
+        "share_percentage": 0.005450933360178717
+    },
+    {
+        "delegator_address": "neutron15v4alt5cvcd90a6fev6nxgdlup2xw5znga8m94",
+        "shares": "525104153.000000000000000000",
+        "share_percentage": 0.005441649705619942
+    },
+    {
+        "delegator_address": "neutron1tdsmq85ww30wexwrgm9rx9gm0gd02sg7dzpkch",
+        "shares": "523540000.000000000000000000",
+        "share_percentage": 0.005425440401878262
+    },
+    {
+        "delegator_address": "neutron12qdy8ksqlhnrk3vu74wkqmrxsl3u3rj9trn03x",
+        "shares": "522000000.000000000000000000",
+        "share_percentage": 0.005409481395462529
+    },
+    {
+        "delegator_address": "neutron1t6xrj23sexrh744raqtuylxywz34n948l29uy3",
+        "shares": "520000000.000000000000000000",
+        "share_percentage": 0.0053887554131044355
+    },
+    {
+        "delegator_address": "neutron1fgwaqndwpl2hmk6vv98vt07fkefvx46wfp6x6g",
+        "shares": "517727857.000000000000000000",
+        "share_percentage": 0.005365209215237902
+    },
+    {
+        "delegator_address": "neutron1u3979l46uqes7alnwhstmrhl8v20jglh7rqge2",
+        "shares": "515000000.000000000000000000",
+        "share_percentage": 0.0053369404572092
+    },
+    {
+        "delegator_address": "neutron15rked5265lzyufr7ufpkx82p69m5nsjrvmzhf7",
+        "shares": "514493078.000000000000000000",
+        "share_percentage": 0.005331687228994735
+    },
+    {
+        "delegator_address": "neutron1r209p5vcr60j4a7wxqf68er8xnvgxga5k9urmq",
+        "shares": "513767840.000000000000000000",
+        "share_percentage": 0.005324171593998026
+    },
+    {
+        "delegator_address": "neutron12m2pjyp6h337cfquk5m40eyjlly6x6kkce8g8m",
+        "shares": "512299808.000000000000000000",
+        "share_percentage": 0.005308958391331467
+    },
+    {
+        "delegator_address": "neutron1yn9plpkjcewxsshl6r7krrfxj58ynngh8h6flm",
+        "shares": "511000000.000000000000000000",
+        "share_percentage": 0.005295488492493013
+    },
+    {
+        "delegator_address": "neutron1pjc8yf2g86k8c0arzgyyzmnaryz78qcfva7fck",
+        "shares": "510000000.000000000000000000",
+        "share_percentage": 0.005285125501313965
+    },
+    {
+        "delegator_address": "neutron1wv8s3cflrukukpe8wt0t246ewamshqlnnrqc5x",
+        "shares": "510000000.000000000000000000",
+        "share_percentage": 0.005285125501313965
+    },
+    {
+        "delegator_address": "neutron1dlnlke8rjq0fjwze8tun9cexhwdukzrs4gglvm",
+        "shares": "509800000.000000000000000000",
+        "share_percentage": 0.005283052903078156
+    },
+    {
+        "delegator_address": "neutron1m548m56axfsgwrcqmley8kyqrc85l6n65gars2",
+        "shares": "509000000.000000000000000000",
+        "share_percentage": 0.005274762510134918
+    },
+    {
+        "delegator_address": "neutron1ljjnszf78pcgu4gxr65wwvd7dlms3x35ceec9h",
+        "shares": "507004786.000000000000000000",
+        "share_percentage": 0.005254086125052608
+    },
+    {
+        "delegator_address": "neutron1q6hkmm2hj3g7yqhq3qx8gahq30zuxqdgccsvqv",
+        "shares": "506592389.000000000000000000",
+        "share_percentage": 0.0052498124585793424
+    },
+    {
+        "delegator_address": "neutron1j42087twdvkmkdqfedg0gq2c6wnp7ycdd8pqhr",
+        "shares": "506000000.000000000000000000",
+        "share_percentage": 0.005243673536597777
+    },
+    {
+        "delegator_address": "neutron12nrtzxng98060v84xxa5ljqwkn436ajdfh7jsd",
+        "shares": "504875000.000000000000000000",
+        "share_percentage": 0.00523201517152135
+    },
+    {
+        "delegator_address": "neutron1s09ex5rrcpvmlyzj6gdsnp3km0cwx2l0n9g7zu",
+        "shares": "504000000.000000000000000000",
+        "share_percentage": 0.005222947554239684
+    },
+    {
+        "delegator_address": "neutron1p30wfhm520r87c8e8kjd052m99rwgx2492dxau",
+        "shares": "502442399.000000000000000000",
+        "share_percentage": 0.005206806148816209
+    },
+    {
+        "delegator_address": "neutron1ffzfm7m8lutgqg265mvuymuqxhyjlzycutvhsc",
+        "shares": "502305941.000000000000000000",
+        "share_percentage": 0.005205392035765899
+    },
+    {
+        "delegator_address": "neutron1ehy8awejzyucm96z5a200c7ar68zm358mj9hcw",
+        "shares": "502033490.000000000000000000",
+        "share_percentage": 0.005202568628456176
+    },
+    {
+        "delegator_address": "neutron1uyj656utav8kwy5wa6qaqf4np46h8aardvysc8",
+        "shares": "501810624.000000000000000000",
+        "share_percentage": 0.005200259070064066
+    },
+    {
+        "delegator_address": "neutron1cv729mgsp6z353aa4khp4t5nk9sq4gg7g4cgwc",
+        "shares": "501100000.000000000000000000",
+        "share_percentage": 0.005192894879820447
+    },
+    {
+        "delegator_address": "neutron10h2nt209tg6ltv72m237jan0qajc6a8evhh0e2",
+        "shares": "501000000.000000000000000000",
+        "share_percentage": 0.005191858580702543
+    },
+    {
+        "delegator_address": "neutron14ju2q5p2erxd2ak3he0908nlkyegag98208a06",
+        "shares": "501000000.000000000000000000",
+        "share_percentage": 0.005191858580702543
+    },
+    {
+        "delegator_address": "neutron15g7vku022mzvt0mrxs3fg3uysxpvmwre53lgc2",
+        "shares": "501000000.000000000000000000",
+        "share_percentage": 0.005191858580702543
+    },
+    {
+        "delegator_address": "neutron164n9eqsua26aw5edaylaalkreft0rksjaw4r48",
+        "shares": "501000000.000000000000000000",
+        "share_percentage": 0.005191858580702543
+    },
+    {
+        "delegator_address": "neutron198el5yvs9nykkwt4udt0x6xs8ln982274s7zzm",
+        "shares": "501000000.000000000000000000",
+        "share_percentage": 0.005191858580702543
+    },
+    {
+        "delegator_address": "neutron1nvn4sfc3r2d69c7v0j9v7ak87xepz9q5feqwy6",
+        "shares": "501000000.000000000000000000",
+        "share_percentage": 0.005191858580702543
+    },
+    {
+        "delegator_address": "neutron1r8lwhzpzxpysjdgg4wskeeczxdswx754d22ssz",
+        "shares": "500296202.000000000000000000",
+        "share_percentage": 0.0051845651282367115
+    },
+    {
+        "delegator_address": "neutron1450lsap8jeet82gtt09uy0cq0x6czgryfndydc",
+        "shares": "500019415.000000000000000000",
+        "share_percentage": 0.005181696786997237
+    },
+    {
+        "delegator_address": "neutron10dlgzp3serdwhlzqjptv343vqag2mmtecw967r",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron12kudz7xjuzlcaa66e8ppnmwsp8lrq63c6kgvne",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron147njtxh5mpg73td2k5ek5r57nk0t6vjy6xr69m",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron14r47d9cxl5revsq63h7w90u78mujd32nxj7ygs",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron18p0f54e58s8mxc3n0f4vje5kcxj50wykgrggvz",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron18suweqrppd9hg3ykdxuzn9gw8y9df2x864u6qc",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron194t8ndagccge763r7a7qs7vqv9tq5r333wt3w8",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron19fgqsnankjucvjxwqq3m52gah9etlvu97953cl",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron19q2h8237906pk5w3e2l7lauej3j4uzuhk0fwfh",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1c0q0kwcyuxr9pmw2u80z0tkary69d4rwhk2p8l",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1cd3684udm8jgzppm2y792nh0hw3mcrg2hfqgh7",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1dhddd5v98hh6j29wpka7calh956xkt7qhl9pla",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1dmx24j76sg7mvy8fe997c4n73ntyx8wa87agx8",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1e9p8t2p8mwqwmqaagqa3vfpk2vthxjk3sxm8xn",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1ftzzm3nup9h8ca6mjqaw66g4c9spkmza843gg3",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1fw20xwx24xkcmhhqgpsxnj06q2lz400s60yxug",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1g87sgs58mlezsk2ug55nyc0y5wsrusgv0p6022",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1j6jn5pu6yuwulalhq5402almr3y42hgj3v4qjk",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1jp2z569galq3ahaatvw43wvfn8mc56sgv2a4uy",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1jup2mnc3l9pznmha6ua7rus9qas634hguu7mvh",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1ljq22ws48522dx48xtvwmujg7mgxhtk7e7l2pr",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1qdxdx9tfa7llqqvz9mt4knefxj4n27dkqmlxpp",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1qh572scllfters8erycfkrlacnjh7xt7yn9766",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1r4ylr8knuljvhlwpnztzu8pwtehmkppza0rhv6",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1rqlhevrjsc20jwsy9zgppkx62jaew6alugk9lf",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1txczzt8eruvx6ut4r8h0vc8zdedyuzfaz89u8u",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1uauggjq5l4plarcurhclsmrhdrsq40ul93ecqn",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1uayjp2p0zkge4y8r523jxj6pw3t9jj6fevtlj3",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1ugrmf2wxfyuw4u3a2xvmxedn2t25pqslytzmcw",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1uj2ny4pycvg6aj42fppmt7l6tkcpad8za540jf",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1uk6j0qzh53jzq0vpmjrnx5r8dxr52ylf0swaxt",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1v2uk3znhcaq9ww0fajazmmw884zjjv27y70882",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1vg5ap3cljka295hrqhtt2mawnxuydm3yk9qfy9",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1vsu3kuy38lmtm8y9eu9nqtmlqy4p6gwxyzkmk6",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1weknytry7d69az8vqjm06zt3ldd064px42jduh",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1wfqehhjdtvme3nfvdex0y22ltppm6ee637thes",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1wp4atasfafg6kfadllnhffkjwhn98vkymzf3dw",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1wq67dntsmwka60ralm7qqesflme3h4uejmmdry",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1xvkrdmtj0qw6htydtlzj88qvpqk8h96mwqqcvl",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1zatvyxsumc7es05m0gy55yxd73rfpsw5g9uhzu",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1zrkhq9j9u22jkgxh3mfs30qa2v7p25hzyuw46t",
+        "shares": "500000000.000000000000000000",
+        "share_percentage": 0.0051814955895234955
+    },
+    {
+        "delegator_address": "neutron1kwav4r2tches8jnawmz5hs9z3wy0vpjpmh3se8",
+        "shares": "498500000.000000000000000000",
+        "share_percentage": 0.0051659511027549255
+    },
+    {
+        "delegator_address": "neutron17c67lkjttj3kt4684he8qldre20996f4act8dr",
+        "shares": "498000000.000000000000000000",
+        "share_percentage": 0.005160769607165402
+    },
+    {
+        "delegator_address": "neutron1lv4egxcc6jjq799eud6ufnsz086frnhpfdyv99",
+        "shares": "495868115.000000000000000000",
+        "share_percentage": 0.00513867690171566
+    },
+    {
+        "delegator_address": "neutron19nfpjllz4uwhelptqn9k40z3tkfns0lhew7vhy",
+        "shares": "495000000.000000000000000000",
+        "share_percentage": 0.00512968063362826
+    },
+    {
+        "delegator_address": "neutron1n376n0a09juj0x96rtndsrhmh78m9vlynvr032",
+        "shares": "495000000.000000000000000000",
+        "share_percentage": 0.00512968063362826
+    },
+    {
+        "delegator_address": "neutron1y7750z4w5f79fu538jxr5yq0dnluc6wgx2cnu3",
+        "shares": "495000000.000000000000000000",
+        "share_percentage": 0.00512968063362826
+    },
+    {
+        "delegator_address": "neutron150kaucam5tsd6nrn329t57m2z3qyempzcmwdda",
+        "shares": "494204814.000000000000000000",
+        "share_percentage": 0.005121440128124559
+    },
+    {
+        "delegator_address": "neutron1tapjtvaas6h7aludtf59zfq5s8u6y9njzh2yra",
+        "shares": "493000000.000000000000000000",
+        "share_percentage": 0.005108954651270167
+    },
+    {
+        "delegator_address": "neutron1s2a7rckcky6jmhncxwy0xtwf2ymg87pu3k0sxz",
+        "shares": "491213948.000000000000000000",
+        "share_percentage": 0.005090445810148848
+    },
+    {
+        "delegator_address": "neutron1dk7nzc3g39np23tr2chsut5w5he59cqmntn9w6",
+        "shares": "490400000.000000000000000000",
+        "share_percentage": 0.005082010874204645
+    },
+    {
+        "delegator_address": "neutron1psdhnw746sej28ruup7uyk8ym227zl6ec00smf",
+        "shares": "490000000.000000000000000000",
+        "share_percentage": 0.005077865677733026
+    },
+    {
+        "delegator_address": "neutron1ygp9ytm3pxy63jq6m9wxcdqrx5693wxrnzdmzk",
+        "shares": "490000000.000000000000000000",
+        "share_percentage": 0.005077865677733026
+    },
+    {
+        "delegator_address": "neutron1gzsc7t6pwsxk2a44jxql8namldq6y6hxm66ck5",
+        "shares": "488000000.000000000000000000",
+        "share_percentage": 0.005057139695374932
+    },
+    {
+        "delegator_address": "neutron1gw6atskparg9zwf7gsmlxquetepcw5wflxzl6f",
+        "shares": "485000000.000000000000000000",
+        "share_percentage": 0.005026050721837791
+    },
+    {
+        "delegator_address": "neutron1gr9lft9zsnury0mun7y0e6ve9afn0u2c3yx6gt",
+        "shares": "481000000.000000000000000000",
+        "share_percentage": 0.004984598757121603
+    },
+    {
+        "delegator_address": "neutron1wjcdyfyzvcs4r9zjg2l8t5zzf46ukudthws6yy",
+        "shares": "479000000.000000000000000000",
+        "share_percentage": 0.004963872774763509
+    },
+    {
+        "delegator_address": "neutron15jqjavs3g527prengdqeqs04yg8adv2f6kjmtr",
+        "shares": "477340000.000000000000000000",
+        "share_percentage": 0.004946670209406291
+    },
+    {
+        "delegator_address": "neutron1u9elq09ykq4updpxnaygj648c35jfayde3py4g",
+        "shares": "477100000.000000000000000000",
+        "share_percentage": 0.00494418309152332
+    },
+    {
+        "delegator_address": "neutron1elh2k56rn8sugyhlyx55kha0h5jh5u67xvvmuv",
+        "shares": "477000000.000000000000000000",
+        "share_percentage": 0.0049431467924054145
+    },
+    {
+        "delegator_address": "neutron1ekwsevxsg2uxyelnjm53gr84eevyh80kuufx7v",
+        "shares": "476000000.000000000000000000",
+        "share_percentage": 0.004932783801226368
+    },
+    {
+        "delegator_address": "neutron1vvaah0rs9f57hjww9ehjxxqtrlqxn4xwl4dlak",
+        "shares": "472406937.000000000000000000",
+        "share_percentage": 0.004895548921051608
+    },
+    {
+        "delegator_address": "neutron1chcpmpggcdjyfe3gav8t8eu0wkxvspj5utxqz3",
+        "shares": "470000000.000000000000000000",
+        "share_percentage": 0.004870605854152086
+    },
+    {
+        "delegator_address": "neutron1uvnk984yhpw48jfu5srvsrqdt03kkvlc7yu42p",
+        "shares": "470000000.000000000000000000",
+        "share_percentage": 0.004870605854152086
+    },
+    {
+        "delegator_address": "neutron1et0e3fjkkc49mfzha78sjz4j9ar6cuedt6g4dp",
+        "shares": "469700000.000000000000000000",
+        "share_percentage": 0.004867496956798371
+    },
+    {
+        "delegator_address": "neutron1ve84qzcpra0l6hzdzr9k29j3yg6kjwup3p8nfr",
+        "shares": "468284966.000000000000000000",
+        "share_percentage": 0.00485283297193832
+    },
+    {
+        "delegator_address": "neutron19ytvscy6dajdt406nlhf27fsuyl3vzzr05h7dg",
+        "shares": "460900195.000000000000000000",
+        "share_percentage": 0.004776304655206038
+    },
+    {
+        "delegator_address": "neutron1ua977wnsrp58v6kmtjdl8jud6895fwqpcv2ng8",
+        "shares": "456000000.000000000000000000",
+        "share_percentage": 0.004725523977645428
+    },
+    {
+        "delegator_address": "neutron1m2xeyv99hs58g2p7gzcem3eayack9r2r50pz78",
+        "shares": "455600000.000000000000000000",
+        "share_percentage": 0.004721378781173809
+    },
+    {
+        "delegator_address": "neutron1jlj6d40g7nad6cxgasf7g3vapj3958syd2ryu4",
+        "shares": "454000000.000000000000000000",
+        "share_percentage": 0.0047047979952873345
+    },
+    {
+        "delegator_address": "neutron1gapau25gzcjshra6yzd478af9aqeh6a3afnl9d",
+        "shares": "451000000.000000000000000000",
+        "share_percentage": 0.004673709021750193
+    },
+    {
+        "delegator_address": "neutron100wc05kmt73lfaff9y4zlgksry6jc4v26cwavc",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron10ulx4m2s2c6ddpdwpd2676frjfq9hcpltpnphf",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron17mx54enwdywzrldcqqnv24d3drrqhuck9v0d6l",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron19mfm9aa5shp59agt675nwrl9lf8n3ldseh53a0",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron1aq2q66fg872kxwj4fdh898z88f7g9j5cq0m6p4",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron1axgd8lqkz0ftj9e0ydg2xwajy6kpauxek9c36e",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron1es4qps3rfeana39vtjxq4kcg0hwf8ezgxekt5t",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron1j0yd66z8cestmequhfc06853a33du7p9pkqqyu",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron1nju6dv4kam9zrvmunnyu3yvca8vqd0k5fncetq",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron1w9kgpssttjn4jvmddr94zeh5wgqd3j20t7s84m",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron1wr6ykzu3p0g4nmc60ad0r6nyugun8fkxsh523h",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron1wtt690w8zryfljyncd4rpdavlajrmdxwwh0xc2",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron1z75hq00728pagjzmezhml3y49hwpys5kyczrtn",
+        "shares": "450000000.000000000000000000",
+        "share_percentage": 0.004663346030571146
+    },
+    {
+        "delegator_address": "neutron1qmh6n68tk9k3csvgnxt43wutzkr098gq5z2274",
+        "shares": "443000000.000000000000000000",
+        "share_percentage": 0.004590805092317817
+    },
+    {
+        "delegator_address": "neutron1gqhhek75y7n22gg7xx09cg4dh2hxyjlgypxepv",
+        "shares": "441400000.000000000000000000",
+        "share_percentage": 0.004574224306431342
+    },
+    {
+        "delegator_address": "neutron1lxxgft69jszlwnees3dce8a20uur8nd7eg6ur5",
+        "shares": "440000000.000000000000000000",
+        "share_percentage": 0.004559716118780676
+    },
+    {
+        "delegator_address": "neutron10y6p0f0srtsgxqu9glu60wr2962jn6f3yprx4x",
+        "shares": "439300000.000000000000000000",
+        "share_percentage": 0.0045524620249553435
+    },
+    {
+        "delegator_address": "neutron12qc6ra9tx9tg53dmlrv6vwqnyq7cv2vuqdc3t6",
+        "shares": "436000000.000000000000000000",
+        "share_percentage": 0.004518264154064488
+    },
+    {
+        "delegator_address": "neutron1gwtmy9uttpl2sqetp0z4cexp2ly5kmjc3sqtwg",
+        "shares": "434100000.000000000000000000",
+        "share_percentage": 0.0044985744708243
+    },
+    {
+        "delegator_address": "neutron16lssxkadtg2g5cu0wksgsen5xu6wjj3q35yuky",
+        "shares": "433000000.000000000000000000",
+        "share_percentage": 0.004487175180527347
+    },
+    {
+        "delegator_address": "neutron1zzvtlahxs6upmyenx8zlua5m4gfzp0qtuq739e",
+        "shares": "431000000.000000000000000000",
+        "share_percentage": 0.0044664491981692535
+    },
+    {
+        "delegator_address": "neutron1cd2n4gq6jnle6x8wzg7nxprm7vgymegh0pctkx",
+        "shares": "430000000.000000000000000000",
+        "share_percentage": 0.004456086206990206
+    },
+    {
+        "delegator_address": "neutron1gxr53f9jx5cxn3dmkzr2eq93g05yey30nl9u42",
+        "shares": "430000000.000000000000000000",
+        "share_percentage": 0.004456086206990206
+    },
+    {
+        "delegator_address": "neutron19345p5qyr4plm4sdsreuezv2nc7tvjg6z3zx28",
+        "shares": "425000000.000000000000000000",
+        "share_percentage": 0.004404271251094972
+    },
+    {
+        "delegator_address": "neutron1ve2w244mg9p5xkpt5tzw0dnhej9ccwskqf39u4",
+        "shares": "424000000.000000000000000000",
+        "share_percentage": 0.004393908259915924
+    },
+    {
+        "delegator_address": "neutron1vzw79rr7keaw33t5v8x63vwu44n98eehumttnf",
+        "shares": "422000000.000000000000000000",
+        "share_percentage": 0.004373182277557831
+    },
+    {
+        "delegator_address": "neutron1rtla5nr6ytm3uwu5ewkjdg4ws670fyur293faj",
+        "shares": "421654405.000000000000000000",
+        "share_percentage": 0.004369600879621308
+    },
+    {
+        "delegator_address": "neutron1zz7svzr8hvalzd2t9x6a8ufh6u0sjxp3w6fxm2",
+        "shares": "420000000.000000000000000000",
+        "share_percentage": 0.004352456295199736
+    },
+    {
+        "delegator_address": "neutron10mwrnqd7l7ta5dekzdf4x95uzc5le0wppyaman",
+        "shares": "413000000.000000000000000000",
+        "share_percentage": 0.004279915356946407
+    },
+    {
+        "delegator_address": "neutron17rx4caclnlkqwlkq4hq3aq0cvj993pnfvkzsas",
+        "shares": "411442809.000000000000000000",
+        "share_percentage": 0.004263778200349316
+    },
+    {
+        "delegator_address": "neutron15yhyx4lrsqldqh2h9j3tyhkt49d7j76a48dful",
+        "shares": "410934665.000000000000000000",
+        "share_percentage": 0.004258512308559631
+    },
+    {
+        "delegator_address": "neutron1nwgdm52tvtu2ee6jmhw329v9tqs0a2092js88y",
+        "shares": "410000000.000000000000000000",
+        "share_percentage": 0.004248826383409267
+    },
+    {
+        "delegator_address": "neutron1sx9jev9dfv35uq46jwm0l930gktaxhn260s837",
+        "shares": "409000000.000000000000000000",
+        "share_percentage": 0.004238463392230219
+    },
+    {
+        "delegator_address": "neutron157v08zcahkmrvvzgw8ggku8q0acnp2urdddwhd",
+        "shares": "402200000.000000000000000000",
+        "share_percentage": 0.004167995052212699
+    },
+    {
+        "delegator_address": "neutron1g8axmlvk6sxw9wu8szsx9khe0qcwrvua9e5jkl",
+        "shares": "400328805.000000000000000000",
+        "share_percentage": 0.004148603874933423
+    },
+    {
+        "delegator_address": "neutron18y0t55pnrkl744x509yrmdxemuytkef7qap6h2",
+        "shares": "400274885.000000000000000000",
+        "share_percentage": 0.004148045102449049
+    },
+    {
+        "delegator_address": "neutron103cfkzwm2zrtrm88jqk6d8xm0sxd2j4kerewqd",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron12hr0cvjz8mqfpnh836uf8k8ya850fqv9kcypck",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron1302djxkzje9zkt0ry88hm0zq6ndswmuut65xqv",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron15r0g6cay3zue0upgdg77kd9nneu7mujh0zc2cq",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron163r9t5m9wfx0qamrw8ckdm8kn8rf7s8n9nx6mz",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron16y6qqs5jzes5qc0vdktdh42zcdm6t80k4f0gdd",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron19c5lk03sx8d5n9wmkj8l6547gj35xwpqpmw9x8",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron19x4fgwd3fj7j6u8yuej7a9rxk3ht2thuj9wl2j",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron1hmjly4722p895vqt4pfw6yhpfyg0tct6vunkpm",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron1jjwf2052uy7fvl8tl65lgxnyr7mggc7vwze6x3",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron1s7k62zu8newvalp0u9a9x8mnn4yanz8n76mzt9",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron1sxf66h2wtq9rja2urj26jh5wq975ktqn67gxsz",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron1u8kpj6l0h4j8mvl5lw6aag4xcceulqywjdva5t",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron1ujds8zlwwl7un3cpx6js9ul0gune4xp87gnz5q",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron1w3wnq0dxredrn3adhltew6u7rk3fse6vpdcnqa",
+        "shares": "400000000.000000000000000000",
+        "share_percentage": 0.004145196471618796
+    },
+    {
+        "delegator_address": "neutron1kf6f7thfd3fqrgrpngmstqjpnn9xzht2j4mner",
+        "shares": "399000000.000000000000000000",
+        "share_percentage": 0.00413483348043975
+    },
+    {
+        "delegator_address": "neutron1w0h730e747hjy68czztjd4azrhc3lsjcj4xhd0",
+        "shares": "398000000.000000000000000000",
+        "share_percentage": 0.004124470489260703
+    },
+    {
+        "delegator_address": "neutron1tzk957nqmrpk88q90tqrxzdcurvtqsrxzp489s",
+        "shares": "397267624.000000000000000000",
+        "share_percentage": 0.004116880883232956
+    },
+    {
+        "delegator_address": "neutron1ss4krazunlfnc8munks4uvsa5c42vlwrw0tu9h",
+        "shares": "390000000.000000000000000000",
+        "share_percentage": 0.004041566559828327
+    },
+    {
+        "delegator_address": "neutron1zyh940gwwnhy9u9n9uyj4vegssaqkne0lny4xu",
+        "shares": "390000000.000000000000000000",
+        "share_percentage": 0.004041566559828327
+    },
+    {
+        "delegator_address": "neutron1v70kygk2fjxej9hna633k23e59vq6lar93l5z2",
+        "shares": "386000000.000000000000000000",
+        "share_percentage": 0.004000114595112138
+    },
+    {
+        "delegator_address": "neutron1eh3muvesj2e3nhn0r5gerqnt7kfz9u3vyn7d0k",
+        "shares": "383979931.000000000000000000",
+        "share_percentage": 0.0039791806378840725
+    },
+    {
+        "delegator_address": "neutron1eulna4p7scsgqzq7m4wjsf77qwdza7ujmwgrum",
+        "shares": "383000000.000000000000000000",
+        "share_percentage": 0.003969025621574998
+    },
+    {
+        "delegator_address": "neutron1aqrm0jf833qaqnf2fepd5n38tfwy549xxg3wea",
+        "shares": "381500000.000000000000000000",
+        "share_percentage": 0.003953481134806427
+    },
+    {
+        "delegator_address": "neutron1j3k9dl843pesjfmetfjyf7e5acey37xleeaaap",
+        "shares": "380000000.000000000000000000",
+        "share_percentage": 0.003937936648037856
+    },
+    {
+        "delegator_address": "neutron1xuf0rtcducq6hnpay5w8dtcfgqg83ga29ylxsq",
+        "shares": "379329188.000000000000000000",
+        "share_percentage": 0.003930985029199058
+    },
+    {
+        "delegator_address": "neutron1keqykz2x2pkxpve3adhjhex2jhfszcfnytn3p7",
+        "shares": "379000000.000000000000000000",
+        "share_percentage": 0.00392757365685881
+    },
+    {
+        "delegator_address": "neutron15uf26r2zxhy46d0gjqz0qxpw0easqegk0f7jw4",
+        "shares": "375617376.000000000000000000",
+        "share_percentage": 0.003892519554184777
+    },
+    {
+        "delegator_address": "neutron1x0tuap8wxe403x8e869nwr2kl534afh0mymgny",
+        "shares": "375551803.000000000000000000",
+        "share_percentage": 0.0038918400217641935
+    },
+    {
+        "delegator_address": "neutron1r8n42mgrv0rkhjpnt8h4wyt8zykyr9wfxsxz4u",
+        "shares": "374380176.000000000000000000",
+        "share_percentage": 0.00387969846149806
+    },
+    {
+        "delegator_address": "neutron1pngeayqthtq9vf9gmxr0sdwyet9ylkzmxpgcxy",
+        "shares": "372555750.000000000000000000",
+        "share_percentage": 0.0038607919509532364
+    },
+    {
+        "delegator_address": "neutron1wnd0p2r2utedlezvx2g2tuurxcfd8a8huctpfh",
+        "shares": "371609874.000000000000000000",
+        "share_percentage": 0.003850989846308764
+    },
+    {
+        "delegator_address": "neutron12jes88juvmycew3a4kmlq4rp5a9ax077rg3skl",
+        "shares": "370603410.000000000000000000",
+        "share_percentage": 0.0038405598687547356
+    },
+    {
+        "delegator_address": "neutron1zgd6069zp596w50xym0rw3y55xf5srjn8celjd",
+        "shares": "368000000.000000000000000000",
+        "share_percentage": 0.0038135807538892926
+    },
+    {
+        "delegator_address": "neutron1wklnuvvpkwzpas63ce6eqqwes4xsuwfjrps762",
+        "shares": "367000000.000000000000000000",
+        "share_percentage": 0.003803217762710246
+    },
+    {
+        "delegator_address": "neutron10jze99fast80y86xzdjj8lztfxmejx2hcfar97",
+        "shares": "366988000.000000000000000000",
+        "share_percentage": 0.0038030934068160973
+    },
+    {
+        "delegator_address": "neutron1uhqr8ncm6c7htf079z5j360m95c9fymgkyxxvl",
+        "shares": "366000000.000000000000000000",
+        "share_percentage": 0.0037928547715311988
+    },
+    {
+        "delegator_address": "neutron1re0guzzpw6uuz47a07hqx8ul0sdydyyslehmyc",
+        "shares": "365000000.000000000000000000",
+        "share_percentage": 0.003782491780352152
+    },
+    {
+        "delegator_address": "neutron1sv43ee6lenhj2587xpeuz6kgwlthv3lwrzvjy0",
+        "shares": "365000000.000000000000000000",
+        "share_percentage": 0.003782491780352152
+    },
+    {
+        "delegator_address": "neutron1x78w4vy3z9uzgm3hky6tx4gdyqyrtdpmmfrxr5",
+        "shares": "365000000.000000000000000000",
+        "share_percentage": 0.003782491780352152
+    },
+    {
+        "delegator_address": "neutron162a42ted6cphkcta5tzwuk2lqvqzsfvsnhlyhn",
+        "shares": "364493793.000000000000000000",
+        "share_percentage": 0.0037772459616763803
+    },
+    {
+        "delegator_address": "neutron129h7pceqq90zzygz5pvz7y42xrswjcyf8gtaxj",
+        "shares": "361000000.000000000000000000",
+        "share_percentage": 0.0037410398156359635
+    },
+    {
+        "delegator_address": "neutron1fjwfa0kljyt9kyxqzf0aavdx7zsq8pzxu5qzzw",
+        "shares": "361000000.000000000000000000",
+        "share_percentage": 0.0037410398156359635
+    },
+    {
+        "delegator_address": "neutron1wxuz0r4dnyla3cxp5r7skpe5n0fl9ag2a7hej4",
+        "shares": "360280303.000000000000000000",
+        "share_percentage": 0.0037335816019733775
+    },
+    {
+        "delegator_address": "neutron19f9uj9pt0q5qm8exnvmjdkcpafe9qwf3nhhemt",
+        "shares": "360000000.000000000000000000",
+        "share_percentage": 0.003730676824456917
+    },
+    {
+        "delegator_address": "neutron1cldxgrs8uludq8yyzk4p97uctax3nv9yn86u90",
+        "shares": "360000000.000000000000000000",
+        "share_percentage": 0.003730676824456917
+    },
+    {
+        "delegator_address": "neutron1w78qaxh99a3ajl9q44uu4drpnpt2ehrscc62zw",
+        "shares": "360000000.000000000000000000",
+        "share_percentage": 0.003730676824456917
+    },
+    {
+        "delegator_address": "neutron1de3znjq4dqwas245w6yn8cykmkepxlw7n0dnfy",
+        "shares": "359527500.000000000000000000",
+        "share_percentage": 0.003725780311124817
+    },
+    {
+        "delegator_address": "neutron1stacxwr505wu93jlyu83urcft42ccfh83murl5",
+        "shares": "358000000.000000000000000000",
+        "share_percentage": 0.003709950842098823
+    },
+    {
+        "delegator_address": "neutron1s43g8xes662vgs43gmca9za3qrfv5ztryc975n",
+        "shares": "357500000.000000000000000000",
+        "share_percentage": 0.0037047693465092992
+    },
+    {
+        "delegator_address": "neutron15cug759d0rnrcmq4799k4vtwt6ayqw2zxraks7",
+        "shares": "357000000.000000000000000000",
+        "share_percentage": 0.0036995878509197763
+    },
+    {
+        "delegator_address": "neutron16er9zj09when4avt7a2xzh6ducmx890qx9dpsq",
+        "shares": "357000000.000000000000000000",
+        "share_percentage": 0.0036995878509197763
+    },
+    {
+        "delegator_address": "neutron1ydrskl8w27n3dyxzgl233uazpgxarerdayztfd",
+        "shares": "356544481.000000000000000000",
+        "share_percentage": 0.003694867311540888
+    },
+    {
+        "delegator_address": "neutron1sat45e2e5tq6yf2jntulsuc4xz9dv7rrc3afxr",
+        "shares": "356500000.000000000000000000",
+        "share_percentage": 0.0036944063553302525
+    },
+    {
+        "delegator_address": "neutron15vrulyt0gw8h55su80dkfscus5lcjp32dsyqqq",
+        "shares": "356000000.000000000000000000",
+        "share_percentage": 0.0036892248597407288
+    },
+    {
+        "delegator_address": "neutron15wjnttewvnd88zat9squkutur74cnh5erkt6ll",
+        "shares": "355000000.000000000000000000",
+        "share_percentage": 0.0036788618685616816
+    },
+    {
+        "delegator_address": "neutron1s6y05wzwyv7wv6qsmakpzyhttkx2un5ul6465u",
+        "shares": "354000000.000000000000000000",
+        "share_percentage": 0.003668498877382635
+    },
+    {
+        "delegator_address": "neutron1ac28sy99syujpega9lln0y9metsw27vg3kmwfp",
+        "shares": "352000000.000000000000000000",
+        "share_percentage": 0.003647772895024541
+    },
+    {
+        "delegator_address": "neutron1zgkzppe5x5kqw7ugla0jnk6frjwl85yd4s3ych",
+        "shares": "351909496.000000000000000000",
+        "share_percentage": 0.0036468350028708726
+    },
+    {
+        "delegator_address": "neutron1026m0fhw92rqv3k3jy40cc78edyxlhwhpcuxzl",
+        "shares": "350000000.000000000000000000",
+        "share_percentage": 0.0036270469126664473
+    },
+    {
+        "delegator_address": "neutron105c0dl6f2wnzln3vmtgrcxzxtt37rawhw28l9h",
+        "shares": "350000000.000000000000000000",
+        "share_percentage": 0.0036270469126664473
+    },
+    {
+        "delegator_address": "neutron15zmqg3gfyymyjdjfkyehha4pj3vel869ytzjx8",
+        "shares": "350000000.000000000000000000",
+        "share_percentage": 0.0036270469126664473
+    },
+    {
+        "delegator_address": "neutron174xv9ej0m5c2sd93k6wye3aqc8tfme7c4ykr03",
+        "shares": "350000000.000000000000000000",
+        "share_percentage": 0.0036270469126664473
+    },
+    {
+        "delegator_address": "neutron1d9llctjrh2cjtl9tgs2rku39qxc6wdnd4pd6hh",
+        "shares": "350000000.000000000000000000",
+        "share_percentage": 0.0036270469126664473
+    },
+    {
+        "delegator_address": "neutron1df2hn2ag2z2edffv74jdc7dqjp9xppc0yrx77a",
+        "shares": "350000000.000000000000000000",
+        "share_percentage": 0.0036270469126664473
+    },
+    {
+        "delegator_address": "neutron1f4fu6mpf663lh4q9rvtfld6k7xdzy0773ze44e",
+        "shares": "350000000.000000000000000000",
+        "share_percentage": 0.0036270469126664473
+    },
+    {
+        "delegator_address": "neutron1m87v8nlrxlnezy7cdh5u7ecjjvk8l3cwvukns6",
+        "shares": "350000000.000000000000000000",
+        "share_percentage": 0.0036270469126664473
+    },
+    {
+        "delegator_address": "neutron12a7cxzuet0y5a8v62v0mul30g758jyrsexe70c",
+        "shares": "349500000.000000000000000000",
+        "share_percentage": 0.0036218654170769235
+    },
+    {
+        "delegator_address": "neutron183u2d0swa9f4nfj935z7vc6hamdu7wem6pc6un",
+        "shares": "348000000.000000000000000000",
+        "share_percentage": 0.003606320930308353
+    },
+    {
+        "delegator_address": "neutron12cxrdzxnetxcc30epnygytzzhtarkp2gx97x6r",
+        "shares": "346000000.000000000000000000",
+        "share_percentage": 0.003585594947950259
+    },
+    {
+        "delegator_address": "neutron1nzjk9m6jmn0pk2wrrvhn2hllce6mrvls335enz",
+        "shares": "346000000.000000000000000000",
+        "share_percentage": 0.003585594947950259
+    },
+    {
+        "delegator_address": "neutron1shxgw7dcm9grykl5cws9ekqr6qvas5v4adydkc",
+        "shares": "343329312.000000000000000000",
+        "share_percentage": 0.003557918631764272
+    },
+    {
+        "delegator_address": "neutron1gpwwzglyrn787qnuhef3v3rga9k0zt74vqs5sd",
+        "shares": "342000000.000000000000000000",
+        "share_percentage": 0.0035441429832340707
+    },
+    {
+        "delegator_address": "neutron120yz44grz04adp8w7jjdmu0u9ws6vhht7jype7",
+        "shares": "341741000.000000000000000000",
+        "share_percentage": 0.0035414589685186983
+    },
+    {
+        "delegator_address": "neutron1880z6724rrl8dnlmt82v59uw7ek0dvay94mqgn",
+        "shares": "341500000.000000000000000000",
+        "share_percentage": 0.0035389614876445478
+    },
+    {
+        "delegator_address": "neutron1fw23rgnmwtjgzvxdhsyllejpe2zunhk6hkttwq",
+        "shares": "341200000.000000000000000000",
+        "share_percentage": 0.0035358525902908335
+    },
+    {
+        "delegator_address": "neutron1xcz048q0pfx5ftnz2eaut8p8vulr0p8wffftae",
+        "shares": "341145745.000000000000000000",
+        "share_percentage": 0.003535290346204414
+    },
+    {
+        "delegator_address": "neutron1h7wwvg72qtgtnpfw3wp8ew8d77ddzv53lkddzq",
+        "shares": "341000000.000000000000000000",
+        "share_percentage": 0.003533779992055024
+    },
+    {
+        "delegator_address": "neutron14qakp7lvzp6w3uxds49plqgva4gfpyr67np5vt",
+        "shares": "340000000.000000000000000000",
+        "share_percentage": 0.0035234170008759773
+    },
+    {
+        "delegator_address": "neutron1xgul8eky94x0pe5wstufhnwxza80qkseaa0kz5",
+        "shares": "338000000.000000000000000000",
+        "share_percentage": 0.0035026910185178835
+    },
+    {
+        "delegator_address": "neutron1lyhe9syygu6nwkf3jsg6vs4xneqektlt9kspqp",
+        "shares": "337000000.000000000000000000",
+        "share_percentage": 0.0034923280273388363
+    },
+    {
+        "delegator_address": "neutron1znpy8xveyszp7lfmpan9v650kvk25qmwjsntg5",
+        "shares": "337000000.000000000000000000",
+        "share_percentage": 0.0034923280273388363
+    },
+    {
+        "delegator_address": "neutron19ltg68fa55lxxr7k06kl0dqpwmp0g7f7a990x6",
+        "shares": "336000000.000000000000000000",
+        "share_percentage": 0.0034819650361597888
+    },
+    {
+        "delegator_address": "neutron14g3pgfpqzuw8pktqyf4d2kc43gtdugjzh3df2a",
+        "shares": "333207741.000000000000000000",
+        "share_percentage": 0.003453028880773175
+    },
+    {
+        "delegator_address": "neutron1hdy3dydep5ykjpyfxase43tudu3qdtz0qe3pd0",
+        "shares": "333000000.000000000000000000",
+        "share_percentage": 0.0034508760626226482
+    },
+    {
+        "delegator_address": "neutron1dxwmvcqzs724ymuqp88y8t8zeglv4hq00e6fu2",
+        "shares": "332477884.000000000000000000",
+        "share_percentage": 0.003445465379120209
+    },
+    {
+        "delegator_address": "neutron124pc84ddvn82hea3wj784pk9pv92de0lqpl793",
+        "shares": "330000000.000000000000000000",
+        "share_percentage": 0.003419787089085507
+    },
+    {
+        "delegator_address": "neutron1838q6c58dqzkym4a4axp345sp8sxjc09uyp7pr",
+        "shares": "330000000.000000000000000000",
+        "share_percentage": 0.003419787089085507
+    },
+    {
+        "delegator_address": "neutron1jrmzl2gf05estqtvx6zud40psqet5s8vmygcum",
+        "shares": "330000000.000000000000000000",
+        "share_percentage": 0.003419787089085507
+    },
+    {
+        "delegator_address": "neutron1qm2du8elhcdwy9pm4zr2uywjqksth7wwk8vkf2",
+        "shares": "330000000.000000000000000000",
+        "share_percentage": 0.003419787089085507
+    },
+    {
+        "delegator_address": "neutron1rh40h6ljpwzt2f5r67tlph76hq2qcr62wdg8pp",
+        "shares": "329386406.000000000000000000",
+        "share_percentage": 0.003413428419875991
+    },
+    {
+        "delegator_address": "neutron1t824stf0rwudys98afgdjykmucfkzdalxgygtl",
+        "shares": "329022163.000000000000000000",
+        "share_percentage": 0.0034096537728799613
+    },
+    {
+        "delegator_address": "neutron1l89e34q78wrs6altkpycw6lp9gfv0734cr7uag",
+        "shares": "328000000.000000000000000000",
+        "share_percentage": 0.003399061106727413
+    },
+    {
+        "delegator_address": "neutron1q30yvuguudfj6px38c9wxp25fchx7ufchvuz0z",
+        "shares": "324000000.000000000000000000",
+        "share_percentage": 0.003357609142011225
+    },
+    {
+        "delegator_address": "neutron1yg36eryq2zgq23wnhw3fjs4ax45slw7aqp2wlv",
+        "shares": "324000000.000000000000000000",
+        "share_percentage": 0.003357609142011225
+    },
+    {
+        "delegator_address": "neutron1pysm5c9aw72wykdhx5uzxcjttrfmycmrkskg8v",
+        "shares": "323653958.000000000000000000",
+        "share_percentage": 0.0033540231118176457
+    },
+    {
+        "delegator_address": "neutron16mue32jztkv7rzp50k6r23wx6nlnyyh07fjrjt",
+        "shares": "321000000.000000000000000000",
+        "share_percentage": 0.0033265201684740844
+    },
+    {
+        "delegator_address": "neutron122y6q2zmw2zhpn3ml9ydp2ujqgrdjasgls7sk4",
+        "shares": "320000000.000000000000000000",
+        "share_percentage": 0.0033161571772950373
+    },
+    {
+        "delegator_address": "neutron14y3usgepvcxxs6jkjqwhuyjy6eyhu7rkx7a03p",
+        "shares": "320000000.000000000000000000",
+        "share_percentage": 0.0033161571772950373
+    },
+    {
+        "delegator_address": "neutron1d4326nfkxuglcjdl9kn86xfaked5txwe66xeeh",
+        "shares": "320000000.000000000000000000",
+        "share_percentage": 0.0033161571772950373
+    },
+    {
+        "delegator_address": "neutron1kvlrwz0m0rxhxsrvup767tq34as0dcy7x3wmrc",
+        "shares": "320000000.000000000000000000",
+        "share_percentage": 0.0033161571772950373
+    },
+    {
+        "delegator_address": "neutron1zatcnm3s9urd3lw8qg28aqej4czngp3yxrgm2y",
+        "shares": "319000000.000000000000000000",
+        "share_percentage": 0.0033057941861159906
+    },
+    {
+        "delegator_address": "neutron1xz462e8dm4evn42svlzp3mzzuumwdgj25m4a7e",
+        "shares": "318000000.000000000000000000",
+        "share_percentage": 0.0032954311949369435
+    },
+    {
+        "delegator_address": "neutron19e8zfy2hkhufk7es99u6apmdv3f0arrt5ggape",
+        "shares": "316579856.000000000000000000",
+        "share_percentage": 0.003280714255191967
+    },
+    {
+        "delegator_address": "neutron1cmry38j0njy3yqtuqsxr562x007nr4qstxf0ts",
+        "shares": "315000000.000000000000000000",
+        "share_percentage": 0.003264342221399802
+    },
+    {
+        "delegator_address": "neutron1glzuau346dluz8u34m2l45l7l7e7ky7wp8npq9",
+        "shares": "314917906.000000000000000000",
+        "share_percentage": 0.0032634914820019495
+    },
+    {
+        "delegator_address": "neutron19ae0kmz5z4rhatd8r4zrxs828wzqtyuyqyay49",
+        "shares": "314000000.000000000000000000",
+        "share_percentage": 0.0032539792302207554
+    },
+    {
+        "delegator_address": "neutron1awcumgxydyr6wlfvkz6p3nsw8a3hqdn3gp3z99",
+        "shares": "313000000.000000000000000000",
+        "share_percentage": 0.0032436162390417087
+    },
+    {
+        "delegator_address": "neutron1695hjrhknrkmlkmxud8tuelzlxw4zj0h2yfrfr",
+        "shares": "311400000.000000000000000000",
+        "share_percentage": 0.003227035453155233
+    },
+    {
+        "delegator_address": "neutron16zlzmce8klra8je5qu24q8pw7tgplnt67l50vn",
+        "shares": "311000000.000000000000000000",
+        "share_percentage": 0.003222890256683614
+    },
+    {
+        "delegator_address": "neutron1e5jprrmun9t7tuuk9qf3s7nu3mg6yq72e5tjte",
+        "shares": "310000000.000000000000000000",
+        "share_percentage": 0.0032125272655045673
+    },
+    {
+        "delegator_address": "neutron1q2unr0g47z2ynca223y9pjxrk8vrczhwkhq9q9",
+        "shares": "310000000.000000000000000000",
+        "share_percentage": 0.0032125272655045673
+    },
+    {
+        "delegator_address": "neutron1qmtqczf3gspgrz9k3e0yay6f0zp3a456m5569f",
+        "shares": "310000000.000000000000000000",
+        "share_percentage": 0.0032125272655045673
+    },
+    {
+        "delegator_address": "neutron1ye7ywgqatch7y2ql8m9djzlt6csdp3gq4lq7mw",
+        "shares": "310000000.000000000000000000",
+        "share_percentage": 0.0032125272655045673
+    },
+    {
+        "delegator_address": "neutron1mvp63mxctj4k533f50gmcknh6dtfjn83r3zvke",
+        "shares": "305500000.000000000000000000",
+        "share_percentage": 0.003165893805198856
+    },
+    {
+        "delegator_address": "neutron18w5whlypksuhl4w77njftcpdrvrj8nssetdkym",
+        "shares": "305000000.000000000000000000",
+        "share_percentage": 0.0031607123096093325
+    },
+    {
+        "delegator_address": "neutron1ca3v59q5mt92caeegupz5y4s90lqjxhcgex8ew",
+        "shares": "305000000.000000000000000000",
+        "share_percentage": 0.0031607123096093325
+    },
+    {
+        "delegator_address": "neutron136yzxcv79rhr2v6qtm0lan505tu6r4g5qw3mdp",
+        "shares": "304103166.000000000000000000",
+        "share_percentage": 0.003151418426778263
+    },
+    {
+        "delegator_address": "neutron1melyfz70aaah374lt06tev63dnyxj6dsx8mlc0",
+        "shares": "304000000.000000000000000000",
+        "share_percentage": 0.003150349318430285
+    },
+    {
+        "delegator_address": "neutron10q73emzkwzk6eulx8rq0raxlyke5hs7v3j2d4e",
+        "shares": "303901445.000000000000000000",
+        "share_percentage": 0.0031493279938346348
+    },
+    {
+        "delegator_address": "neutron190epyk4lj9r6kthq2v8q9frmfjsklv24lsgpky",
+        "shares": "303000000.000000000000000000",
+        "share_percentage": 0.0031399863272512383
+    },
+    {
+        "delegator_address": "neutron1aaj82dtep8rssv7afhvg4xdmpl3ffsmnqe3zxw",
+        "shares": "302782500.000000000000000000",
+        "share_percentage": 0.0031377323766697955
+    },
+    {
+        "delegator_address": "neutron18864hnf5h3t9w4jqwwgkwvz0jhe4y3uccdg8wf",
+        "shares": "302500000.000000000000000000",
+        "share_percentage": 0.0031348048316617153
+    },
+    {
+        "delegator_address": "neutron128as8hdtwlmtdl0jmq25akvff62cu7k54f3jt2",
+        "shares": "302000000.000000000000000000",
+        "share_percentage": 0.0031296233360721916
+    },
+    {
+        "delegator_address": "neutron1rhs22u7lv7l3apr8qenu3t7x0jgjc7249vahty",
+        "shares": "302000000.000000000000000000",
+        "share_percentage": 0.0031296233360721916
+    },
+    {
+        "delegator_address": "neutron1qyujhl9dcuue7l4d7s3zkjrrce06pr3uml0f50",
+        "shares": "301500000.000000000000000000",
+        "share_percentage": 0.0031244418404826678
+    },
+    {
+        "delegator_address": "neutron1ccetvl8yadymdf8vskydmq9k523pkyv0mdg5v7",
+        "shares": "301000000.000000000000000000",
+        "share_percentage": 0.0031192603448931444
+    },
+    {
+        "delegator_address": "neutron1ud4p9cf427hh0aw4tyt02ghprsl7zjtp39u7du",
+        "shares": "301000000.000000000000000000",
+        "share_percentage": 0.0031192603448931444
+    },
+    {
+        "delegator_address": "neutron1x05fusa66ugf8wc0w093aukklq9nk9ua83d2ma",
+        "shares": "301000000.000000000000000000",
+        "share_percentage": 0.0031192603448931444
+    },
+    {
+        "delegator_address": "neutron137ewqgtqfqvwe23z9ny29tdq0sewdxv037zg80",
+        "shares": "300922039.000000000000000000",
+        "share_percentage": 0.003118452435737835
+    },
+    {
+        "delegator_address": "neutron1eghq6zlnv3p2pstgy2wp3wkvtq0vqcsxcgh6ms",
+        "shares": "300500000.000000000000000000",
+        "share_percentage": 0.0031140788493036206
+    },
+    {
+        "delegator_address": "neutron1npx0qanfdgyw9yr058w5a2zd54dvmsq65ysslj",
+        "shares": "300500000.000000000000000000",
+        "share_percentage": 0.0031140788493036206
+    },
+    {
+        "delegator_address": "neutron126ygdxx4uk25pvmhnzjq20clla6heymw9py5cp",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron142fr7kq4cl5lf92esge8x90puhh4pghh9udwxc",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron145natmrz7wutkxctkt6pmsespwj80945zyfu6d",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron14v3n8pd3layaexm5dx54ndqen9tr6wlem837a5",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron163f4akptgz8xqp26e7xlt04hwd9asgxy670unr",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron17pwjvfwvysx9watqft76rgjdkvvc9angstwa74",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron188d0xhgn0qtm00az4jzpr3lszqpng602qn8arj",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1c8lsry9wyu5npayxfjcucsqpf2n9clftyjenuy",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1ft2ssp6algc9dmqw9u8d0fted4rvf3uwr0tyn2",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1gh87xjzr70saaqhjmw3p0xc9wkpy7f7ykf7hcd",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1hc54kmcfv7f2jeyd32v5wxc2vvxk24j9wh45ey",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1jj9xntqz99u6lqc5l6kzrq4nq6w5v00drvvev9",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1k83s24uwxlj2aar6r3etv4l02yk3uqagxaql4c",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1ksjcaas536pfnz0ugnnrk5x2k7n7xtelpgzn8y",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1nfl4mkc0xglpxmsnzu35cd6x3ptnkkc73nu3dp",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1qjshq70dfxfjpr7uwj3y73fe699c5smyhgcrzx",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1qtqeaxp09wujy09uj5cs8aexvc9n8qjwatqh43",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1s6f8hkd7y3u7y44u9wkhjap6j69jtf7752s2td",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1sqa4y70h79y0yk2577wljlfl8sv35pngd60sth",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1tttwj0hptr08syfxwke2yf2fh9n9v5vpqdjprl",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1u9hpqcz90f9q8eqjgp70yca0k4nmeyz2g9f2vv",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1uaux0dl3gh40y9czng2eqn2d52uu8afv5ujcdg",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1ul6dz9wez5xctu3mjcqzlp2e4r40jl4kr76a9s",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1urqqv76gkxwdwnhjy8hsz54xkjmh8mdw4t9xse",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1xr5fddyzqgws7hyq07mnmxysx48xl3ues9rpr7",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1ywyk2knhmsql652dysecaxtev35sly962fn2yp",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1zrrj0hzxdh2evwvp4kfcyh899n0xjfr8r7l94c",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1zzny5fqlt69upmea5nn7frm337teg82ffdx856",
+        "shares": "300000000.000000000000000000",
+        "share_percentage": 0.0031088973537140977
+    },
+    {
+        "delegator_address": "neutron1x0geq60tewsqhcf53u7e9gw68y95ud5xtcq725",
+        "shares": "298021443.000000000000000000",
+        "share_percentage": 0.0030883935849758556
+    },
+    {
+        "delegator_address": "neutron1lvafway0qx62m8kew0jucjk20ra0dvpnyfsmu8",
+        "shares": "298000000.000000000000000000",
+        "share_percentage": 0.003088171371356003
+    },
+    {
+        "delegator_address": "neutron18xc6hxx8kgsr94pvtcjtxyagyc77j7z9yqgxs6",
+        "shares": "295083117.000000000000000000",
+        "share_percentage": 0.003057943738556691
+    },
+    {
+        "delegator_address": "neutron139jujelt422y570dyrnp339vvez6e663tuqftp",
+        "shares": "295000000.000000000000000000",
+        "share_percentage": 0.0030570823978188625
+    },
+    {
+        "delegator_address": "neutron18wwg277xjz74tz9j8qjf05l6wlc963xsdduq9x",
+        "shares": "295000000.000000000000000000",
+        "share_percentage": 0.0030570823978188625
+    },
+    {
+        "delegator_address": "neutron1j5j2rl43jyhr5aa97dpqc2n4mrz3gschd4jp7g",
+        "shares": "295000000.000000000000000000",
+        "share_percentage": 0.0030570823978188625
+    },
+    {
+        "delegator_address": "neutron1h09nv4gfqezwcdw2l2dens6u0m2y8jkplf4cc3",
+        "shares": "294000000.000000000000000000",
+        "share_percentage": 0.0030467194066398154
+    },
+    {
+        "delegator_address": "neutron1f703p9ue4ftucjv5mdjx8eqd2x5tcnw99vvlx7",
+        "shares": "293000000.000000000000000000",
+        "share_percentage": 0.0030363564154607683
+    },
+    {
+        "delegator_address": "neutron10403ht50gq4azqqgh4z2tcqydck8tjwmm5tn8n",
+        "shares": "292250000.000000000000000000",
+        "share_percentage": 0.0030285841720764832
+    },
+    {
+        "delegator_address": "neutron100wkxe0uyumd2fa8uz2twxqqzscrzzythuhzhh",
+        "shares": "292000000.000000000000000000",
+        "share_percentage": 0.0030259934242817216
+    },
+    {
+        "delegator_address": "neutron1t9c8s4nlpt37x4my0tqxw35248avqx0rqx6v39",
+        "shares": "292000000.000000000000000000",
+        "share_percentage": 0.0030259934242817216
+    },
+    {
+        "delegator_address": "neutron185svu5mzamk24uvt5u8nvpl840cnl53yjnrlcv",
+        "shares": "291000000.000000000000000000",
+        "share_percentage": 0.0030156304331026744
+    },
+    {
+        "delegator_address": "neutron1cn2z25cm82ymeu60mcjcuvq90332qucq4jv8hw",
+        "shares": "291000000.000000000000000000",
+        "share_percentage": 0.0030156304331026744
+    },
+    {
+        "delegator_address": "neutron13r6ln7w85u7s4s4v7gyy60wu8ls6845npscxg9",
+        "shares": "290000000.000000000000000000",
+        "share_percentage": 0.0030052674419236273
+    },
+    {
+        "delegator_address": "neutron1nu06gr0dh3carumcyrglpcj8lzs9put3q5hrg9",
+        "shares": "290000000.000000000000000000",
+        "share_percentage": 0.0030052674419236273
+    },
+    {
+        "delegator_address": "neutron1qzd2awqfel3mrd5cn6tdjpku099qvkk597dyue",
+        "shares": "290000000.000000000000000000",
+        "share_percentage": 0.0030052674419236273
+    },
+    {
+        "delegator_address": "neutron1wt0xss26y3xrl5mu8dqejw47nzdhqkhlpj8d9u",
+        "shares": "290000000.000000000000000000",
+        "share_percentage": 0.0030052674419236273
+    },
+    {
+        "delegator_address": "neutron1xhpmld45kettu77v4v4cjhe36368cw2fgqrfz5",
+        "shares": "289610977.000000000000000000",
+        "share_percentage": 0.0030012360000061813
+    },
+    {
+        "delegator_address": "neutron1raevuzyjglq00umnn0fu09d5axtmc8yrmtxwzs",
+        "shares": "289362426.000000000000000000",
+        "share_percentage": 0.0029986602681856375
+    },
+    {
+        "delegator_address": "neutron1d3q4h75rn2n86veezajc3dwfsfdnfrpqgdwv79",
+        "shares": "288177500.000000000000000000",
+        "share_percentage": 0.0029863808904998144
+    },
+    {
+        "delegator_address": "neutron1vckc45qrw3w2jjqnj4gmyfmm7fcwnrk92xvf6q",
+        "shares": "288168566.000000000000000000",
+        "share_percentage": 0.002986288307536621
+    },
+    {
+        "delegator_address": "neutron1scc6r97j7efc206rt9h6yh5cqjemanavsv76n8",
+        "shares": "284352272.000000000000000000",
+        "share_percentage": 0.002946740086477971
+    },
+    {
+        "delegator_address": "neutron1h6tf2g84mvxqaale03e560xhwg0zud9kwwprew",
+        "shares": "283161863.000000000000000000",
+        "share_percentage": 0.002934403888511513
+    },
+    {
+        "delegator_address": "neutron10zhjwdmn0c6v0kn80t5l0v2dnxak6m5j6n872k",
+        "shares": "283000000.000000000000000000",
+        "share_percentage": 0.0029327265036702987
+    },
+    {
+        "delegator_address": "neutron18jlc56v4gxux4wcah5njcnkxv6lde2hny0jqgw",
+        "shares": "282378219.000000000000000000",
+        "share_percentage": 0.0029262829926519998
+    },
+    {
+        "delegator_address": "neutron1jsv630a4pclh32vkxhj06ejhee3achr0nchchm",
+        "shares": "282000000.000000000000000000",
+        "share_percentage": 0.0029223635124912516
+    },
+    {
+        "delegator_address": "neutron1yqht6x4gx328ym896j2k6e43qnayg09tdnchth",
+        "shares": "281680741.000000000000000000",
+        "share_percentage": 0.00291905503429042
+    },
+    {
+        "delegator_address": "neutron18wdmfrwua88cgthqn9kdh80hajlwnczrgxhp2s",
+        "shares": "281538267.000000000000000000",
+        "share_percentage": 0.0029175785774851765
+    },
+    {
+        "delegator_address": "neutron12leszyaherxx9ayyf0xucl86jtkwd9pqklnte4",
+        "shares": "280000000.000000000000000000",
+        "share_percentage": 0.0029016375301331573
+    },
+    {
+        "delegator_address": "neutron1j67k7r5kcyf69altz6s3vhcp94js9hh7y3al4n",
+        "shares": "280000000.000000000000000000",
+        "share_percentage": 0.0029016375301331573
+    },
+    {
+        "delegator_address": "neutron1jcqlghjjpag6mrh020f8yy8aanydles28syfr9",
+        "shares": "278165205.000000000000000000",
+        "share_percentage": 0.002882623565732798
+    },
+    {
+        "delegator_address": "neutron1s6ztaep4wj96mvhf9mmdufjlrrafvdxaml99yq",
+        "shares": "278000000.000000000000000000",
+        "share_percentage": 0.002880911547775064
+    },
+    {
+        "delegator_address": "neutron12u0nkv3va6x0kh76u6mnc2nkyvvugxvrhhdp7e",
+        "shares": "275000000.000000000000000000",
+        "share_percentage": 0.002849822574237923
+    },
+    {
+        "delegator_address": "neutron14fupkq3zhf7fke9lukxkuz48dlzl8tpmllh9g8",
+        "shares": "275000000.000000000000000000",
+        "share_percentage": 0.002849822574237923
+    },
+    {
+        "delegator_address": "neutron1crp5tu4l8vpe67qrmg9glzuygcukaj63lrpdfe",
+        "shares": "275000000.000000000000000000",
+        "share_percentage": 0.002849822574237923
+    },
+    {
+        "delegator_address": "neutron1q2pwm6u7z90xnph7a2mpw3p5kk7teyg5fzek5h",
+        "shares": "275000000.000000000000000000",
+        "share_percentage": 0.002849822574237923
+    },
+    {
+        "delegator_address": "neutron1x9jqh6slmcv7exrf3q7cmfcdwsmeud42rztp9d",
+        "shares": "275000000.000000000000000000",
+        "share_percentage": 0.002849822574237923
+    },
+    {
+        "delegator_address": "neutron1yrmj7kxfx2w9j4d85tssgu9j7sr3gk9cxggxgz",
+        "shares": "275000000.000000000000000000",
+        "share_percentage": 0.002849822574237923
+    },
+    {
+        "delegator_address": "neutron1fxw3azlpglvj7np276g09euu674m08csvdv4fw",
+        "shares": "274000000.000000000000000000",
+        "share_percentage": 0.0028394595830588754
+    },
+    {
+        "delegator_address": "neutron1f4pmug6hn35saxzn6mvqar7lqgjv4ngux2vjhy",
+        "shares": "271009678.000000000000000000",
+        "share_percentage": 0.0028084709025503656
+    },
+    {
+        "delegator_address": "neutron14yw4kfpn532v9s32ma23ggt4gl5ecjqdgqgt7v",
+        "shares": "270750000.000000000000000000",
+        "share_percentage": 0.0028057798617269728
+    },
+    {
+        "delegator_address": "neutron1j7x0wrj0dh57pmnxx07kp8nnxmgp29m5cszfwr",
+        "shares": "270000000.000000000000000000",
+        "share_percentage": 0.0027980076183426877
+    },
+    {
+        "delegator_address": "neutron1zc7fqk8kw45rxqc33s0t8r5navhpvyc3dlx90w",
+        "shares": "270000000.000000000000000000",
+        "share_percentage": 0.0027980076183426877
+    },
+    {
+        "delegator_address": "neutron1ghfnveej8gz84f9hntpqwfnc27ffhet3v7my7m",
+        "shares": "268000000.000000000000000000",
+        "share_percentage": 0.002777281635984594
+    },
+    {
+        "delegator_address": "neutron1le44m5k33mf5akamjak3ncndr532l66xvvmevt",
+        "shares": "267299492.000000000000000000",
+        "share_percentage": 0.002770022277759742
+    },
+    {
+        "delegator_address": "neutron1cp2u2fhna5qt0mjj2uydukatq3um7ye6dvxqj0",
+        "shares": "266400000.000000000000000000",
+        "share_percentage": 0.0027607008500981182
+    },
+    {
+        "delegator_address": "neutron1k3txkfhp3tlqdglw08jr9k4z2qch6ylnl6vj0j",
+        "shares": "265500000.000000000000000000",
+        "share_percentage": 0.0027513741580369763
+    },
+    {
+        "delegator_address": "neutron1wadmzlzhds5037h7996eeq90yzeyj885nsgpln",
+        "shares": "264600000.000000000000000000",
+        "share_percentage": 0.002742047465975834
+    },
+    {
+        "delegator_address": "neutron1gzt2zek3gmf3nh3u87camdmslmd3uumu8msl3j",
+        "shares": "262300000.000000000000000000",
+        "share_percentage": 0.002718212586264026
+    },
+    {
+        "delegator_address": "neutron1t05987dvn0hyn5rfa23hav2nxty6eluheha4fy",
+        "shares": "262000000.000000000000000000",
+        "share_percentage": 0.002715103688910312
+    },
+    {
+        "delegator_address": "neutron1070h5whjne6yatsmllta245a7w4wvx2xe30370",
+        "shares": "260000000.000000000000000000",
+        "share_percentage": 0.0026943777065522177
+    },
+    {
+        "delegator_address": "neutron12n2vem5t24e02ej3zg8rfnz0zpypqjm7xhfjvg",
+        "shares": "260000000.000000000000000000",
+        "share_percentage": 0.0026943777065522177
+    },
+    {
+        "delegator_address": "neutron1dk26m0mdehwrztw2ukuferdsgmt4925ats2ysg",
+        "shares": "260000000.000000000000000000",
+        "share_percentage": 0.0026943777065522177
+    },
+    {
+        "delegator_address": "neutron1yh8df7p3wlltqxfv4k7q49sgx84sa90hvknvzn",
+        "shares": "260000000.000000000000000000",
+        "share_percentage": 0.0026943777065522177
+    },
+    {
+        "delegator_address": "neutron1lcy77recaq3cqdtg67axnrws2lvgtarz9yhjac",
+        "shares": "259572990.000000000000000000",
+        "share_percentage": 0.002689952605688853
+    },
+    {
+        "delegator_address": "neutron102j5xjdgmjt89890rel4emcuqp4zgfw94zpz4q",
+        "shares": "259000000.000000000000000000",
+        "share_percentage": 0.002684014715373171
+    },
+    {
+        "delegator_address": "neutron1p4r5lv6pdchdnxw9ekqjwa08kzefrcrg8lccmn",
+        "shares": "259000000.000000000000000000",
+        "share_percentage": 0.002684014715373171
+    },
+    {
+        "delegator_address": "neutron15k83yf8q874ke9k3tgqrkar8kt4cyngxw9ward",
+        "shares": "258310447.000000000000000000",
+        "share_percentage": 0.0026768688837166855
+    },
+    {
+        "delegator_address": "neutron17vcvqaul0zqeywucww5g4e9p9k2yyu4tqjx7fa",
+        "shares": "257583947.000000000000000000",
+        "share_percentage": 0.002669340170625108
+    },
+    {
+        "delegator_address": "neutron1d5fftchsjuq99vrak5p4qqux6k8aphtnk4a020",
+        "shares": "257000000.000000000000000000",
+        "share_percentage": 0.002663288733015077
+    },
+    {
+        "delegator_address": "neutron1dzrhf2u52k0vveh693dnmnp8amvmpnp295sfac",
+        "shares": "257000000.000000000000000000",
+        "share_percentage": 0.002663288733015077
+    },
+    {
+        "delegator_address": "neutron1xj050ejzs04q770s23f5qftfs2wn2upj4qftg4",
+        "shares": "257000000.000000000000000000",
+        "share_percentage": 0.002663288733015077
+    },
+    {
+        "delegator_address": "neutron1e8tpzc5yuhx532s6hh2amyxqnnqapf7eez4ntr",
+        "shares": "256946800.000000000000000000",
+        "share_percentage": 0.0026627374218843518
+    },
+    {
+        "delegator_address": "neutron1qan78ur2l7llt85jm0n0wck0w9s6emvqnf98pg",
+        "shares": "256000000.000000000000000000",
+        "share_percentage": 0.0026529257418360297
+    },
+    {
+        "delegator_address": "neutron1z05j30n4ps3qrxyf5ura8dtsze58szql5xuht0",
+        "shares": "255142312.000000000000000000",
+        "share_percentage": 0.002644037528657655
+    },
+    {
+        "delegator_address": "neutron1pd9rl0yfdklm40v87kefej4558ezrcwzgg645d",
+        "shares": "255000000.000000000000000000",
+        "share_percentage": 0.0026425627506569825
+    },
+    {
+        "delegator_address": "neutron13nwv9d4swmn90rvrmnmscshm5utecul9mpax05",
+        "shares": "253172000.000000000000000000",
+        "share_percentage": 0.002623619202781685
+    },
+    {
+        "delegator_address": "neutron1x5yz8zfjyrq03vgppc2jer7z26jcwjxcfs7x7c",
+        "shares": "253000000.000000000000000000",
+        "share_percentage": 0.0026218367682988887
+    },
+    {
+        "delegator_address": "neutron1edqclj9aq8fswcd3xy0hxmkfdak6yuwq62nth3",
+        "shares": "252273114.000000000000000000",
+        "share_percentage": 0.002614304055092716
+    },
+    {
+        "delegator_address": "neutron18ntcqaghvexw304v37fwvumca4ejskmqj6kxjd",
+        "shares": "252000000.000000000000000000",
+        "share_percentage": 0.002611473777119842
+    },
+    {
+        "delegator_address": "neutron1qj3rzpu4eknfcufzvtxvdmelc3hu2fa22d90c4",
+        "shares": "252000000.000000000000000000",
+        "share_percentage": 0.002611473777119842
+    },
+    {
+        "delegator_address": "neutron1rlmylk0mc5ctz6d9yrjdan27448tddp03s52vf",
+        "shares": "252000000.000000000000000000",
+        "share_percentage": 0.002611473777119842
+    },
+    {
+        "delegator_address": "neutron1ytnk4qmg7e4xc45w7x3fhnr7dp9s0mwvgkw7s9",
+        "shares": "252000000.000000000000000000",
+        "share_percentage": 0.002611473777119842
+    },
+    {
+        "delegator_address": "neutron1ks69pkz76j6exda0fmgrs5d6le48hvplj5rmpg",
+        "shares": "251000000.000000000000000000",
+        "share_percentage": 0.002601110785940795
+    },
+    {
+        "delegator_address": "neutron1pu832phqn9lux3srpxz53zua5xrhw2y5u3jfzf",
+        "shares": "251000000.000000000000000000",
+        "share_percentage": 0.002601110785940795
+    },
+    {
+        "delegator_address": "neutron1jd5nx0msp2xxwe2xwss2t0f34rsts9r8w0fh9w",
+        "shares": "250768532.000000000000000000",
+        "share_percentage": 0.002598712085098563
+    },
+    {
+        "delegator_address": "neutron1q65vnvj4cldkg603t8t55l0rslnmrtd74n2j2y",
+        "shares": "250670156.000000000000000000",
+        "share_percentage": 0.002597692615478333
+    },
+    {
+        "delegator_address": "neutron1mjnrjfe3t6ent4v2uu0njd0k7t8w2f0ctdsl7t",
+        "shares": "250100000.000000000000000000",
+        "share_percentage": 0.0025917840938796525
+    },
+    {
+        "delegator_address": "neutron10d3x3fyzkeart33kjvq4hk9qksjwumnmvcrxfu",
+        "shares": "250000000.000000000000000000",
+        "share_percentage": 0.0025907477947617477
+    },
+    {
+        "delegator_address": "neutron10p32w2fjktz80lpxw06pcsxpng2kzn8hnh8t3n",
+        "shares": "250000000.000000000000000000",
+        "share_percentage": 0.0025907477947617477
+    },
+    {
+        "delegator_address": "neutron1364w0rf4mv27j8wxdypmqwtpyl7h6pxzv5qspa",
+        "shares": "250000000.000000000000000000",
+        "share_percentage": 0.0025907477947617477
+    },
+    {
+        "delegator_address": "neutron159gjj0llvuhxlln00kxnc2mc4n3f6f3fxfaf7w",
+        "shares": "250000000.000000000000000000",
+        "share_percentage": 0.0025907477947617477
+    },
+    {
+        "delegator_address": "neutron16zkfv7faq67pzleka628460da6xccc7gektjzu",
+        "shares": "250000000.000000000000000000",
+        "share_percentage": 0.0025907477947617477
+    },
+    {
+        "delegator_address": "neutron18ztdlnlgrsn28vqvzlf3m58u3ezw35qz9438k3",
+        "shares": "250000000.000000000000000000",
+        "share_percentage": 0.0025907477947617477
+    },
+    {
+        "delegator_address": "neutron1grzfuw0k3rxp0yzp8aavyee8mechuweu8maq7q",
+        "shares": "250000000.000000000000000000",
+        "share_percentage": 0.0025907477947617477
+    },
+    {
+        "delegator_address": "neutron1hrs4pj7q5pk508lzz9a8fwkjn66egwcfccp7hv",
+        "shares": "250000000.000000000000000000",
+        "share_percentage": 0.0025907477947617477
+    },
+    {
+        "delegator_address": "neutron1y63qjvj9frfyxqjx3zkzw49ln7kgq5rjujqacj",
+        "shares": "250000000.000000000000000000",
+        "share_percentage": 0.0025907477947617477
+    },
+    {
+        "delegator_address": "neutron1svdafwzvj4arr4m50j5rxfedq4mdg03544sv25",
+        "shares": "249000000.000000000000000000",
+        "share_percentage": 0.002580384803582701
+    },
+    {
+        "delegator_address": "neutron1w9c38glmu65u6y5ec6nlmy940sapxn5a2hr8mx",
+        "shares": "249000000.000000000000000000",
+        "share_percentage": 0.002580384803582701
+    },
+    {
+        "delegator_address": "neutron1zddzj589f6cpqguqasxmg090xhd6hds4tud263",
+        "shares": "249000000.000000000000000000",
+        "share_percentage": 0.002580384803582701
+    },
+    {
+        "delegator_address": "neutron10wv3wggq99kh3vza026v4wq8cxcc4z0tavtpuw",
+        "shares": "248957835.000000000000000000",
+        "share_percentage": 0.0025799478480596364
+    },
+    {
+        "delegator_address": "neutron1z9ugslfkrv7n3wk637egwpzgh02xuuz9fvmap3",
+        "shares": "248404084.000000000000000000",
+        "share_percentage": 0.002574209331331248
+    },
+    {
+        "delegator_address": "neutron1cdy967u78p5swuft2nuz6zqxfl04veh7v869eg",
+        "shares": "248000000.000000000000000000",
+        "share_percentage": 0.002570021812403654
+    },
+    {
+        "delegator_address": "neutron142cl70a6rsp56x7myfz67g7m0f5x84w562uyyx",
+        "shares": "246000000.000000000000000000",
+        "share_percentage": 0.00254929583004556
+    },
+    {
+        "delegator_address": "neutron1075trxysp3xv5qwpcqndhn9957q7un5vc7ghza",
+        "shares": "244143629.000000000000000000",
+        "share_percentage": 0.002530058273747521
+    },
+    {
+        "delegator_address": "neutron1gnan9q5yednrh8t8lgntwd7kve8ya58zkfyaqy",
+        "shares": "244000000.000000000000000000",
+        "share_percentage": 0.002528569847687466
+    },
+    {
+        "delegator_address": "neutron10tlyezts0zepjj6gp07mns7jgjh5hkmvqrxde0",
+        "shares": "242000000.000000000000000000",
+        "share_percentage": 0.0025078438653293716
+    },
+    {
+        "delegator_address": "neutron1jzkmq73s8dhjge2a297pwxma8xw6zaptglekvj",
+        "shares": "240880000.000000000000000000",
+        "share_percentage": 0.002496237315208839
+    },
+    {
+        "delegator_address": "neutron1k3ysg747vuhf3gj7jn5dta3c8mv4gkvvnsn7y0",
+        "shares": "240086626.000000000000000000",
+        "share_percentage": 0.002488015587445154
+    },
+    {
+        "delegator_address": "neutron154g030nawuemy6h2rgsqm6cwqm7322rllfss9q",
+        "shares": "240000000.000000000000000000",
+        "share_percentage": 0.002487117882971278
+    },
+    {
+        "delegator_address": "neutron1ceq9je9mjkddww0wgqwyly52g2j7wzyytdpk3t",
+        "shares": "240000000.000000000000000000",
+        "share_percentage": 0.002487117882971278
+    },
+    {
+        "delegator_address": "neutron1j0vfwgkags9490pzpxmv5ttnf2xz5l43jm7gcu",
+        "shares": "240000000.000000000000000000",
+        "share_percentage": 0.002487117882971278
+    },
+    {
+        "delegator_address": "neutron1mnldgq9z7kfv4majpyfp83x09t9kgp7xkn0pvh",
+        "shares": "240000000.000000000000000000",
+        "share_percentage": 0.002487117882971278
+    },
+    {
+        "delegator_address": "neutron1msvt3kfw48w4mm2tv2802c97twsgycgandc6n6",
+        "shares": "240000000.000000000000000000",
+        "share_percentage": 0.002487117882971278
+    },
+    {
+        "delegator_address": "neutron1qqympmddwaq3wgxru5d0xx2jlp7gmyqvx34yjn",
+        "shares": "239718385.000000000000000000",
+        "share_percentage": 0.0024841995092103907
+    },
+    {
+        "delegator_address": "neutron1vpzlwskzcvy60lasrwa5xepztfp95vsd2kjqah",
+        "shares": "238766424.000000000000000000",
+        "share_percentage": 0.002474334345764594
+    },
+    {
+        "delegator_address": "neutron1768fz9r2c4w86kvckxfhpvha054rkc7rhm843v",
+        "shares": "238728588.000000000000000000",
+        "share_percentage": 0.002473942251630343
+    },
+    {
+        "delegator_address": "neutron1zd2tm3639sl9s7ww6a7xp72em6ktgspjf0tcuu",
+        "shares": "238400000.000000000000000000",
+        "share_percentage": 0.0024705370970848025
+    },
+    {
+        "delegator_address": "neutron1t8xpm4ny4zksandl2ss69lj80m66jt7myc0ta0",
+        "shares": "237500000.000000000000000000",
+        "share_percentage": 0.0024612104050236606
+    },
+    {
+        "delegator_address": "neutron1n4j29qu9fv84jk2hauqhfp2k4tlznsfkj9dfh2",
+        "shares": "237280532.000000000000000000",
+        "share_percentage": 0.0024589360600755774
+    },
+    {
+        "delegator_address": "neutron130gktfe84lgfrm3kszltxq5txzr52hgw46ccj2",
+        "shares": "236000000.000000000000000000",
+        "share_percentage": 0.00244566591825509
+    },
+    {
+        "delegator_address": "neutron14juz57emsul4a90nqlxggeg0r0j2xr2jhydzpe",
+        "shares": "236000000.000000000000000000",
+        "share_percentage": 0.00244566591825509
+    },
+    {
+        "delegator_address": "neutron13e56q9nds70g3d7hfs8erj3gpdv9ej96xjf5xf",
+        "shares": "235000000.000000000000000000",
+        "share_percentage": 0.002435302927076043
+    },
+    {
+        "delegator_address": "neutron1n7d9s7y0lpm07mhakf0nxarssd5eaxsl85jvrn",
+        "shares": "235000000.000000000000000000",
+        "share_percentage": 0.002435302927076043
+    },
+    {
+        "delegator_address": "neutron19cf4ky8xhehqe2ejmgzwvz93tqm4zzmnxf27zq",
+        "shares": "234600000.000000000000000000",
+        "share_percentage": 0.0024311577306044244
+    },
+    {
+        "delegator_address": "neutron178h0tm4p4r9scn0899xg9mad8mhj20pz2j7wys",
+        "shares": "232332364.000000000000000000",
+        "share_percentage": 0.002407658238739135
+    },
+    {
+        "delegator_address": "neutron1fch7wtvnljk80vv44d4yum6cx92hw825mq0h0f",
+        "shares": "232276354.000000000000000000",
+        "share_percentage": 0.002407077807603196
+    },
+    {
+        "delegator_address": "neutron1wlz9gj4jduf8hhxaz8wxkyv5jq8w6m7ncnvw2z",
+        "shares": "230669619.000000000000000000",
+        "share_percentage": 0.0023904272269711303
+    },
+    {
+        "delegator_address": "neutron1c7vq9anqmxnfq8lhp63d84wp038537jdsd0s30",
+        "shares": "230143500.000000000000000000",
+        "share_percentage": 0.0023849750604150012
+    },
+    {
+        "delegator_address": "neutron1mqwzx6asn8fltassvsnkgsqs75gl66jtf4x8yt",
+        "shares": "230000000.000000000000000000",
+        "share_percentage": 0.002383487971180808
+    },
+    {
+        "delegator_address": "neutron1r0fmlncm0twdhte7tlll5lxf6et729x3ew4thl",
+        "shares": "230000000.000000000000000000",
+        "share_percentage": 0.002383487971180808
+    },
+    {
+        "delegator_address": "neutron1e67x3s27mrfwju5a9qkkv7zc0ja3u4mya0dsjl",
+        "shares": "229000000.000000000000000000",
+        "share_percentage": 0.002373124980001761
+    },
+    {
+        "delegator_address": "neutron1622e0qvy8g8ygedshy9aj7hundckz4w7vkymag",
+        "shares": "228750000.000000000000000000",
+        "share_percentage": 0.0023705342322069994
+    },
+    {
+        "delegator_address": "neutron1453suxhadeql3ye99s0kv0enf53jyhrxpa27jt",
+        "shares": "228000000.000000000000000000",
+        "share_percentage": 0.002362761988822714
+    },
+    {
+        "delegator_address": "neutron18rek6kf5rhthuqewqggvesccn2stf5t0jq505f",
+        "shares": "228000000.000000000000000000",
+        "share_percentage": 0.002362761988822714
+    },
+    {
+        "delegator_address": "neutron1u77nz4njsvu6ee7sn887a7rruxf62tqu823wdx",
+        "shares": "228000000.000000000000000000",
+        "share_percentage": 0.002362761988822714
+    }
+]
